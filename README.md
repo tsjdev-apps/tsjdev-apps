@@ -8,15 +8,13 @@
 - 🌱 I’m currently starting to learn Swift and SwiftUI to take a deeper look into native iOS development
 - 🤟 I speak German and English as well as some Spanish
 
-
 ### Recent Blog Posts On [Medium.com](https://medium.com/@tsjdevapps) 📝
 
- - [Use Azure OpenAI to generate images using C#](https://medium.com/medialesson/use-azure-openai-to-generate-images-using-c-c2fa32e12b72)
- - [Deploy an Azure OpenAI service with LLM deployments via Bicep](https://medium.com/medialesson/deploy-an-azure-openai-service-with-llm-deployments-via-bicep-244411472d40)
- - [Create a Credit Card view in .NET MAUI](https://medium.com/@tsjdevapps/create-a-credit-card-view-in-net-maui-df74c20f11e0)
- - [Use Azure OpenAI to create a Copilot on your own data in C# — Part 2](https://medium.com/medialesson/use-azure-openai-to-create-a-copilot-on-your-own-data-in-c-part-2-b7acc1922337)
- - [Use Azure OpenAI to create a Copilot on your own data — Part 1](https://medium.com/medialesson/use-azure-openai-to-create-a-copilot-on-your-own-data-part-1-ba1d997298ca)
-
+- [Use Azure OpenAI to generate images using C#](https://medium.com/medialesson/use-azure-openai-to-generate-images-using-c-c2fa32e12b72)
+- [Deploy an Azure OpenAI service with LLM deployments via Bicep](https://medium.com/medialesson/deploy-an-azure-openai-service-with-llm-deployments-via-bicep-244411472d40)
+- [Create a Credit Card view in .NET MAUI](https://medium.com/@tsjdevapps/create-a-credit-card-view-in-net-maui-df74c20f11e0)
+- [Use Azure OpenAI to create a Copilot on your own data in C# — Part 2](https://medium.com/medialesson/use-azure-openai-to-create-a-copilot-on-your-own-data-in-c-part-2-b7acc1922337)
+- [Use Azure OpenAI to create a Copilot on your own data — Part 1](https://medium.com/medialesson/use-azure-openai-to-create-a-copilot-on-your-own-data-part-1-ba1d997298ca)
 
 ### Follow Me 🤟
 
@@ -38,17 +36,29 @@
     </a>
 </div>
 
-
 ### Buy me a coffee ☕
-I appreciate any form of support to keep my *Open Source* activities going.
 
-Whatever you decide, be it sharing my blog posts, using my packages or buying me a coffee/book, thank you ❤️.
+I appreciate any form of support to keep my _Open Source_ activities going.
+
+Whatever you decide, be it reading and sharing my blog posts, using my NuGet packages or buying me a coffee/book, thank you ❤️.
 
 <a href="https://www.buymeacoffee.com/tsjdevapps" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+### Some Stats from [GitHub](https://github.com/tsjdev-apps) 📊
 
-### Some Stats from [GitHub](https://github.com/tsjdev-apps) 📈
+#### 🔥 Streak Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tsjdev-apps&count_private=true&showicons=true&hide=prs&theme=react)](https://github.com/tsjdev-apps)
+<p>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tsjdev-apps's streak" src="https://streak-stats.demolab.com/?user=tsjdev-apps&theme=monokai-metallian" width="450px"/>  
+</p>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tsjdev-apps&count_private=true&showicons=true&theme=react&langs_count=5)](https://github.com/tsjdev-apps)
+#### 💻 GitHub Profile Stats
+
+<img alt="tsjdev-apps's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tsjdev-apps&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="450px"/>
+
+<img alt="tsjdev-apps's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tsjdev-apps&langs_count=6&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="450px"/>
+<br/>
+
+#### 🎯 Contribution Graph
+
+<img alt="tsjdev-apps's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tsjdev-apps&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" /></a>
