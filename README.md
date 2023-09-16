@@ -11,6 +11,13 @@
 
 ### Recent Blog Posts On [Medium.com](https://medium.com/@tsjdevapps) 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Use Azure OpenAI to generate images using C#](https://medium.com/medialesson/use-azure-openai-to-generate-images-using-c-c2fa32e12b72?source=rss-c8f6762e0e4b------2)
+- [Deploy an Azure OpenAI service with LLM deployments via Bicep](https://medium.com/medialesson/deploy-an-azure-openai-service-with-llm-deployments-via-bicep-244411472d40?source=rss-c8f6762e0e4b------2)
+- [Create a Credit Card view in .NET MAUI](https://medium.com/@tsjdevapps/create-a-credit-card-view-in-net-maui-df74c20f11e0?source=rss-c8f6762e0e4b------2)
+- [Use Azure OpenAI to create a Copilot on your own data in C#— Part 2](https://medium.com/medialesson/use-azure-openai-to-create-a-copilot-on-your-own-data-in-c-part-2-b7acc1922337?source=rss-c8f6762e0e4b------2)
+- [Use Azure OpenAI to create a Copilot on your own data — Part 1](https://medium.com/medialesson/use-azure-openai-to-create-a-copilot-on-your-own-data-part-1-ba1d997298ca?source=rss-c8f6762e0e4b------2)
+- [RP #02: Install .NET and develop your first .NET application](https://medium.com/medialesson/rp-02-install-net-and-develop-your-first-net-application-4d33ebaf4f0e?source=rss-c8f6762e0e4b------2)
+- [RP #01: Setup your Raspberry Pi with Raspberry Pi OS](https://medium.com/medialesson/rp-01-setup-your-raspberry-pi-with-raspberry-pi-os-b2a88617c587?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 
