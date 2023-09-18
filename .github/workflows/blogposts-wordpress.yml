@@ -1,0 +1,27 @@
+name: Latest blog post - Wordpress
+
+on:
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+# sets the permission to write to the repository
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.tsjdev-apps.de/feed/"
+          comment_tag_name: "WORDPRESS-BLOG-POST-LIST"
+          max_post_count: 7
