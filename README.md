@@ -9,7 +9,7 @@
 - 🤟 I speak German and English as well as some Spanish
 
 
-### Recent Blog Posts On [Medium.com](https://medium.com/@tsjdevapps) 📝
+### Recent Blog Posts On [Medium.com](https://medium.com/@tsjdevapps) (English) 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
 - [Use Azure OpenAI to generate images using C#](https://medium.com/medialesson/use-azure-openai-to-generate-images-using-c-c2fa32e12b72?source=rss-c8f6762e0e4b------2)
 - [Deploy an Azure OpenAI service with LLM deployments via Bicep](https://medium.com/medialesson/deploy-an-azure-openai-service-with-llm-deployments-via-bicep-244411472d40?source=rss-c8f6762e0e4b------2)
@@ -19,6 +19,11 @@
 - [RP #02: Install .NET and develop your first .NET application](https://medium.com/medialesson/rp-02-install-net-and-develop-your-first-net-application-4d33ebaf4f0e?source=rss-c8f6762e0e4b------2)
 - [RP #01: Setup your Raspberry Pi with Raspberry Pi OS](https://medium.com/medialesson/rp-01-setup-your-raspberry-pi-with-raspberry-pi-os-b2a88617c587?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
+
+
+### Recent Blog Posts On [tsjdev-apps.de](https://www.tsjdev-apps.de) (German) 📝
+<!-- WORDPRESS-BLOG-POST-LIST:START -->
+<!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
 ### My Tech Stack in alphabetical order 💻
