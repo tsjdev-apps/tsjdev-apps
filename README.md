@@ -4,7 +4,7 @@
 - ⌨️ Currently I focus on C# with .NET based technologies like ASP.NET Core, Xamarin.Forms and .NET MAUI
 - ⚙️ I develop samples, custom controls and packages to share them with the world
 - 📫 You can reach me on [LinkedIn](https://linkedin.com/in/thomassebastianjensen) or send me an [e-mail](mailto:apps@tsjdev-apps.de)
-- 🔭 Check out my [blog](https://www.tsjdev-apps.de)
+- 🔭 Check out my [blog](https://www.tsjdev-apps.de) for German or [Medium.com](https://medium.com/@tsjdevapps) for English content
 - 🌱 I’m currently starting to learn Swift and SwiftUI to take a deeper look into native iOS development
 - 🤟 I speak German and English as well as some Spanish
 
