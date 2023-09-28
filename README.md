@@ -23,13 +23,13 @@
 
 ### Recent Blog Posts On [tsjdev-apps.de](https://www.tsjdev-apps.de) (German) 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [NuGet: RESTCountriesSharp](https://www.tsjdev-apps.de/nuget-restcountriessharp/)
 - [NuGet: RandomUserSharp – Update](https://www.tsjdev-apps.de/nuget-randomusersharp-update/)
 - [Buch-Tipp: Cross-Plattform-Apps mit .NET MAUI entwickeln von André Krämer](https://www.tsjdev-apps.de/buch-tipp-cross-plattform-apps-mit-net-maui-entwickeln-von-andre-kraemer/)
 - [Bereitstellen von Azure Open AI Services mit LLM Deployments mit Bicep](https://www.tsjdev-apps.de/bereitstellen-von-azure-open-ai-services-mit-llm-deployments-mit-bicep/)
 - [Azure OpenAI verwenden, um einen Copiloten für eigenen Daten zu erstellen – Teil 2](https://www.tsjdev-apps.de/azure-openai-verwenden-um-einen-copiloten-fuer-eigenen-daten-zu-erstellen-teil-2/)
 - [Azure OpenAI verwenden, um einen Copiloten für eigenen Daten zu erstellen – Teil 1](https://www.tsjdev-apps.de/azure-openai-verwenden-um-einen-copiloten-fur-eigenen-daten-zu-erstellen-teil-1/)
 - [GitHub Desktop: Tool zum schnellen Arbeiten mit Git und GitHub](https://www.tsjdev-apps.de/github-desktop-tool-zum-schnellen-arbeiten-mit-git-und-github/)
-- [Spotify Playlisten für das Programmieren](https://www.tsjdev-apps.de/spotify-playlisten-fuer-das-programmieren/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
