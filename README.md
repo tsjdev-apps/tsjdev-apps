@@ -2,14 +2,15 @@
 
 - 😀 I am Thomas Sebastian Jensen, but everybody just calls me Sebastian
 - ⌨️ Currently I focus on C# with .NET based technologies like ASP.NET Core, Xamarin.Forms and .NET MAUI
-- ⚙️ I develop samples, custom controls and packages to share them with the world on GitHub and on my blog
-- 📫 You can reach me on [LinkedIn](https://linkedin.com/in/thomassebastianjensen) or send me an [e-mail](mailto:apps@tsjdev-apps.de)
+- ⚙️ I develop samples, custom controls and NuGet packages to share them with the world on [GitHub](https://github.com/tsjdev-apps), [NuGet](https://www.nuget.org/profiles/tsjdev-apps) and on [my blog](https://www.tsjdev-apps.de)
+- 📫 You can reach me on [X/Twitter](https://www.twitter.com/tsjdevapps) or [LinkedIn](https://linkedin.com/in/thomassebastianjensen)
+- 📧 You can also send me an [e-mail](mailto:apps@tsjdev-apps.de)
 - 🔭 Check out my [blog](https://www.tsjdev-apps.de) for German or [Medium.com](https://medium.com/@tsjdevapps) for English content
 - 🌱 I’m currently starting to learn Swift and SwiftUI to take a deeper look into native iOS, iPadOS, macOS, watchOS and visionOS development
 - 🤟 I speak German and English as well as some Spanish
 
 
-### Recent Blog Posts On [Medium.com](https://medium.com/@tsjdevapps) (English) 📝
+### Recent blog posts on [Medium.com](https://medium.com/@tsjdevapps) in English 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
 - [RP #03: Creating a .NET Service to run automatically on a Raspberry Pi](https://medium.com/medialesson/rp-03-creating-a-net-service-to-run-automatically-on-a-raspberry-pi-a7554c11e664?source=rss-c8f6762e0e4b------2)
 - [Use Azure OpenAI to generate images using C#](https://medium.com/medialesson/use-azure-openai-to-generate-images-using-c-c2fa32e12b72?source=rss-c8f6762e0e4b------2)
@@ -21,7 +22,7 @@
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 
-### Recent Blog Posts On [tsjdev-apps.de](https://www.tsjdev-apps.de) (German) 📝
+### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
 - [NuGet: RESTCountriesSharp](https://www.tsjdev-apps.de/nuget-restcountriessharp/)
 - [NuGet: RandomUserSharp – Update](https://www.tsjdev-apps.de/nuget-randomusersharp-update/)
