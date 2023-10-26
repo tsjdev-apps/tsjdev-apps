@@ -1,4 +1,4 @@
-### Hi there and welcome to my GitHub profile👋
+### Hi there 👋
 
 - 😀 I am Thomas Sebastian Jensen, but everybody just calls me Sebastian
 - ⌨️ Currently I focus on C# with .NET based technologies like ASP.NET Core, Xamarin.Forms and .NET MAUI
