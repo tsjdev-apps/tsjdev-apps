@@ -24,13 +24,13 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [UWP-Apps per PowerShell starten und stoppen](https://www.tsjdev-apps.de/uwp-apps-per-powershell-starten-und-stoppen/)
 - [NuGet: tsjdevapps.MauiControlsLib](https://www.tsjdev-apps.de/nuget-tsjdevapps-mauicontrolslib/)
 - [Mit Azure OpenAI Bilder in C# generieren](https://www.tsjdev-apps.de/mit-azure-openai-bilder-in-c-generieren/)
 - [NuGet: RESTCountriesSharp](https://www.tsjdev-apps.de/nuget-restcountriessharp/)
 - [NuGet: RandomUserSharp – Update](https://www.tsjdev-apps.de/nuget-randomusersharp-update/)
 - [Buch-Tipp: Cross-Plattform-Apps mit .NET MAUI entwickeln von André Krämer](https://www.tsjdev-apps.de/buch-tipp-cross-plattform-apps-mit-net-maui-entwickeln-von-andre-kraemer/)
 - [Bereitstellen von Azure Open AI Services mit LLM Deployments mit Bicep](https://www.tsjdev-apps.de/bereitstellen-von-azure-open-ai-services-mit-llm-deployments-mit-bicep/)
-- [Azure OpenAI verwenden, um einen Copiloten für eigenen Daten zu erstellen – Teil 2](https://www.tsjdev-apps.de/azure-openai-verwenden-um-einen-copiloten-fuer-eigenen-daten-zu-erstellen-teil-2/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
