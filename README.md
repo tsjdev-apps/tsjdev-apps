@@ -12,13 +12,13 @@
 
 ### Recent blog posts on [Medium.com](https://medium.com/@tsjdevapps) in English 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Use OpenAI’s Vision API to get a description of an image](https://medium.com/medialesson/use-openais-vision-api-to-get-a-description-of-an-image-7c6446f56c25?source=rss-c8f6762e0e4b------2)
+- [Use OpenAI’s Speech-To-Text API to transcribe audio files](https://medium.com/medialesson/use-openais-speech-to-text-api-to-transcribe-audio-files-f66dd3d7d134?source=rss-c8f6762e0e4b------2)
+- [Use OpenAI’s Text-To-Speech API to create audio files](https://medium.com/medialesson/use-openais-text-to-speech-api-to-create-audio-files-62e1f253206c?source=rss-c8f6762e0e4b------2)
+- [Create your own GPT by using the newly OpenAI GPT Builder](https://medium.com/medialesson/create-your-own-gpt-by-using-the-newly-openai-gpt-builder-8117fa70b339?source=rss-c8f6762e0e4b------2)
 - [Use OpenAI’s DALL-E 3 to generate stunning images](https://medium.com/medialesson/use-openais-dall-e-3-to-generate-stunning-images-ef1a301bc046?source=rss-c8f6762e0e4b------2)
 - [RP #03: Creating a .NET Service to run automatically on a Raspberry Pi](https://medium.com/medialesson/rp-03-creating-a-net-service-to-run-automatically-on-a-raspberry-pi-a7554c11e664?source=rss-c8f6762e0e4b------2)
 - [Use Azure OpenAI to generate images using C#](https://medium.com/medialesson/use-azure-openai-to-generate-images-using-c-c2fa32e12b72?source=rss-c8f6762e0e4b------2)
-- [Deploy an Azure OpenAI service with LLM deployments via Bicep](https://medium.com/medialesson/deploy-an-azure-openai-service-with-llm-deployments-via-bicep-244411472d40?source=rss-c8f6762e0e4b------2)
-- [Create a Credit Card view in .NET MAUI](https://medium.com/@tsjdevapps/create-a-credit-card-view-in-net-maui-df74c20f11e0?source=rss-c8f6762e0e4b------2)
-- [Use Azure OpenAI to create a Copilot on your own data in C#— Part 2](https://medium.com/medialesson/use-azure-openai-to-create-a-copilot-on-your-own-data-in-c-part-2-b7acc1922337?source=rss-c8f6762e0e4b------2)
-- [Use Azure OpenAI to create a Copilot on your own data — Part 1](https://medium.com/medialesson/use-azure-openai-to-create-a-copilot-on-your-own-data-part-1-ba1d997298ca?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 
