@@ -89,13 +89,14 @@ Whatever you decide, be it reading and sharing my blog posts, using my NuGet pac
 
 ![GitHub Snake animation](https://raw.githubusercontent.com/tsjdev-apps/tsjdev-apps/snake-output/github-contribution-grid-snake.svg)
 
-#### 🗨️ Most Used Langugages & Most Contributed Repositories
+#### 🗨️ Most Used Langugages
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100%; width: 100%;"">
-    <img src="https://api.githubtrends.io/user/svg/tsjdev-apps/langs?time_range=one_year&theme=bright_lights" alt="Languages" style="margin: 5px; width: 40%;" />
-    <img src="https://api.githubtrends.io/user/svg/tsjdev-apps/repos?time_range=one_year&theme=bright_lights"
-alt="Repositories" style="margin: 5px; width: 40%;" />
-</div>
+![Most Used Languages](https://api.githubtrends.io/user/svg/tsjdev-apps/langs?time_range=one_year&theme=bright_lights)
+
+#### 💾 Most Contributed Repositories
+
+![Most Contributed Repositories](https://api.githubtrends.io/user/svg/tsjdev-apps/repos?time_range=one_year&theme=bright_lights)
+
 
 #### 🔥 Streak & GitHub Profile Stats
 
