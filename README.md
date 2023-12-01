@@ -87,24 +87,26 @@ Whatever you decide, be it reading and sharing my blog posts, using my NuGet pac
 
 #### 🐍 GitHub Activity Graph as Snake animation
 
-![](https://raw.githubusercontent.com/tsjdev-apps/tsjdev-apps/snake-output/github-contribution-grid-snake.svg)
+![GitHub Snake animation](https://raw.githubusercontent.com/tsjdev-apps/tsjdev-apps/snake-output/github-contribution-grid-snake.svg)
 
-#### 🔥 Streak Stats
+#### 🗨️ Most Used Langugages & Most Contributed Repositories
 
-<p>
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tsjdev-apps's streak" src="https://streak-stats.demolab.com/?user=tsjdev-apps&theme=monokai-metallian" width="450px"/>  
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://api.githubtrends.io/user/svg/tsjdev-apps/langs?time_range=one_year&theme=bright_lights" alt="Languages" style="margin: 5px; width: 50%;" />
+    <img src="https://api.githubtrends.io/user/svg/tsjdev-apps/repos?time_range=one_year&theme=bright_lights"
+alt="Repositories" style="margin: 5px; width: 50%;" />
+</div>
 
-#### 💻 GitHub Profile Stats
+#### 🔥 Streak & GitHub Profile Stats
 
-<img alt="tsjdev-apps's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tsjdev-apps&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="450px"/>
-
-<img alt="tsjdev-apps's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tsjdev-apps&langs_count=6&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="450px"/>
-<br/>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://streak-stats.demolab.com/?user=tsjdev-apps&theme=monokai-metallian" alt="Streak Stats" style="margin: 5px; width: 50%;" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tsjdev-apps&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Profile Stats" style="margin: 5px; width: 50%;" />
+</div>
 
 #### 📊 GitHub 3D Profile
 
-![](https://raw.githubusercontent.com/tsjdev-apps/tsjdev-apps/profile3d-output/profile-green-animate.svg)
+![GitHub 3D Profile](https://raw.githubusercontent.com/tsjdev-apps/tsjdev-apps/profile3d-output/profile-green-animate.svg)
 
 #### 🎯 Contribution Graph
 
