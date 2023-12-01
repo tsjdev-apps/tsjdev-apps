@@ -98,12 +98,13 @@ Whatever you decide, be it reading and sharing my blog posts, using my NuGet pac
 ![Most Contributed Repositories](https://api.githubtrends.io/user/svg/tsjdev-apps/repos?time_range=one_year&theme=bright_lights)
 
 
-#### 🔥 Streak & GitHub Profile Stats
+#### 🔥 Streak Stats
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100%; width: 100%;"">
-    <img src="https://streak-stats.demolab.com/?user=tsjdev-apps&theme=monokai-metallian" alt="Streak Stats" style="margin: 5px; width: 40%;" />
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tsjdev-apps&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Profile Stats" style="margin: 5px; width: 40%;" />
-</div>
+![Streak Stats](https://streak-stats.demolab.com/?user=tsjdev-apps&theme=monokai-metallian)
+
+#### 👤 GitHub Profile Stats
+
+![GitHub Profile Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=tsjdev-apps&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 
 #### 📊 GitHub 3D Profile
 
