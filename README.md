@@ -92,16 +92,16 @@ Whatever you decide, be it reading and sharing my blog posts, using my NuGet pac
 #### 🗨️ Most Used Langugages & Most Contributed Repositories
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://api.githubtrends.io/user/svg/tsjdev-apps/langs?time_range=one_year&theme=bright_lights" alt="Languages" style="margin: 5px; width: 50%;" />
+    <img src="https://api.githubtrends.io/user/svg/tsjdev-apps/langs?time_range=one_year&theme=bright_lights" alt="Languages" style="margin: 5px; width: 40%;" />
     <img src="https://api.githubtrends.io/user/svg/tsjdev-apps/repos?time_range=one_year&theme=bright_lights"
-alt="Repositories" style="margin: 5px; width: 50%;" />
+alt="Repositories" style="margin: 5px; width: 40%;" />
 </div>
 
 #### 🔥 Streak & GitHub Profile Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://streak-stats.demolab.com/?user=tsjdev-apps&theme=monokai-metallian" alt="Streak Stats" style="margin: 5px; width: 50%;" />
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tsjdev-apps&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Profile Stats" style="margin: 5px; width: 50%;" />
+    <img src="https://streak-stats.demolab.com/?user=tsjdev-apps&theme=monokai-metallian" alt="Streak Stats" style="margin: 5px; width: 40%;" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tsjdev-apps&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Profile Stats" style="margin: 5px; width: 40%;" />
 </div>
 
 #### 📊 GitHub 3D Profile
