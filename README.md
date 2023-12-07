@@ -24,13 +24,13 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Snake-Spiel in Python mit ChatGPT entwickelt](https://www.tsjdev-apps.de/snake-spiel-in-python-mit-chatgpt-entwickelt/)
 - [Einrichten von GitHub Sponsors für ein persönliches Konto](https://www.tsjdev-apps.de/einrichten-von-github-sponsors-fuer-ein-persoenliches-konto/)
 - [Android Archive Erstellung schlägt fehl](https://www.tsjdev-apps.de/android-archive-erstellung-schlaegt-fehl/)
 - [UWP-Apps per PowerShell starten und stoppen](https://www.tsjdev-apps.de/uwp-apps-per-powershell-starten-und-stoppen/)
 - [NuGet: tsjdevapps.MauiControlsLib](https://www.tsjdev-apps.de/nuget-tsjdevapps-mauicontrolslib/)
 - [Mit Azure OpenAI Bilder in C# generieren](https://www.tsjdev-apps.de/mit-azure-openai-bilder-in-c-generieren/)
 - [NuGet: RESTCountriesSharp](https://www.tsjdev-apps.de/nuget-restcountriessharp/)
-- [NuGet: RandomUserSharp – Update](https://www.tsjdev-apps.de/nuget-randomusersharp-update/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
