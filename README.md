@@ -12,13 +12,13 @@
 
 ### Recent blog posts on [Medium.com](https://medium.com/@tsjdevapps) in English 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Use OpenAI’s Translation API to translate audio files to English](https://medium.com/medialesson/use-openais-translation-api-to-translate-audio-files-to-english-407fc58e0caf?source=rss-c8f6762e0e4b------2)
 - [Use Azure OpenAI to get a transcript of any MP3 file using C#](https://medium.com/medialesson/use-azure-openai-to-get-a-transcript-of-any-mp3-file-using-c-70df15a282ca?source=rss-c8f6762e0e4b------2)
 - [Use OpenAI’s Vision API to get a description of an image](https://medium.com/medialesson/use-openais-vision-api-to-get-a-description-of-an-image-7c6446f56c25?source=rss-c8f6762e0e4b------2)
 - [Use OpenAI’s Speech-To-Text API to transcribe audio files](https://medium.com/medialesson/use-openais-speech-to-text-api-to-transcribe-audio-files-f66dd3d7d134?source=rss-c8f6762e0e4b------2)
 - [Use OpenAI’s Text-To-Speech API to create audio files](https://medium.com/medialesson/use-openais-text-to-speech-api-to-create-audio-files-62e1f253206c?source=rss-c8f6762e0e4b------2)
 - [Create your own GPT by using the newly OpenAI GPT Builder](https://medium.com/medialesson/create-your-own-gpt-by-using-the-newly-openai-gpt-builder-8117fa70b339?source=rss-c8f6762e0e4b------2)
 - [Use OpenAI’s DALL-E 3 to generate stunning images](https://medium.com/medialesson/use-openais-dall-e-3-to-generate-stunning-images-ef1a301bc046?source=rss-c8f6762e0e4b------2)
-- [RP #03: Creating a .NET Service to run automatically on a Raspberry Pi](https://medium.com/medialesson/rp-03-creating-a-net-service-to-run-automatically-on-a-raspberry-pi-a7554c11e664?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 
