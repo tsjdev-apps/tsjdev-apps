@@ -12,13 +12,13 @@
 
 ### Recent blog posts on [Medium.com](https://medium.com/@tsjdevapps) in English 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [#RP5: Setup a Raspberry Pi 5 for development](https://medium.com/medialesson/rp5-setup-a-raspberry-pi-5-for-development-09eebf94b959?source=rss-c8f6762e0e4b------2)
 - [Add Lottie animations to your Angular project](https://medium.com/medialesson/add-lottie-animations-to-your-angular-project-3e8f632d6212?source=rss-c8f6762e0e4b------2)
 - [Using Ollama to run local LLMs on your computer](https://medium.com/medialesson/using-ollama-to-run-local-llms-on-your-computer-2e2ee6572a13?source=rss-c8f6762e0e4b------2)
 - [Creating a copilot using OpenAI and/or Azure OpenAI](https://medium.com/medialesson/creating-a-copilot-using-openai-and-or-azure-openai-03938fcf7413?source=rss-c8f6762e0e4b------2)
 - [Use OpenAI’s Translation API to translate audio files to English](https://medium.com/medialesson/use-openais-translation-api-to-translate-audio-files-to-english-407fc58e0caf?source=rss-c8f6762e0e4b------2)
 - [Use Azure OpenAI to get a transcript of any MP3 file using C#](https://medium.com/medialesson/use-azure-openai-to-get-a-transcript-of-any-mp3-file-using-c-70df15a282ca?source=rss-c8f6762e0e4b------2)
 - [Use OpenAI’s Vision API to get a description of an image](https://medium.com/medialesson/use-openais-vision-api-to-get-a-description-of-an-image-7c6446f56c25?source=rss-c8f6762e0e4b------2)
-- [Use OpenAI’s Speech-To-Text API to transcribe audio files](https://medium.com/medialesson/use-openais-speech-to-text-api-to-transcribe-audio-files-f66dd3d7d134?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 
