@@ -3,7 +3,7 @@ name: Latest blog post - Medium
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 6 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -19,9 +19,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@tsjdevapps"
           comment_tag_name: "MEDIUM-BLOG-POST-LIST"
-          max_post_count: 7
+          max_post_count: 10
