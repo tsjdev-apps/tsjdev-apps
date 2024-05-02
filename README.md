@@ -24,13 +24,13 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Einrichtung von Azure OpenAI](https://www.tsjdev-apps.de/einrichtung-von-azure-openai/)
+- [Einrichtung von OpenAI](https://www.tsjdev-apps.de/einrichtung-von-openai/)
+- [Abkürzungen der Künstlichen Intelligenz](https://www.tsjdev-apps.de/abkuerzungen-der-kuenstlichen-intelligenz/)
+- [Unvollständige Geschichte der KI](https://www.tsjdev-apps.de/unvollstaendige-geschichte-der-ki/)
 - [MAUI App Accelerator – Erweiterung, um MAUI Apps schneller entwickeln zu können](https://www.tsjdev-apps.de/maui-app-accelerator-erweiterung-um-maui-apps-schneller-entwickeln-zu-koennen/)
 - [Mit dotnet outdated automatisch NuGet Pakete aktualisieren](https://www.tsjdev-apps.de/mit-dotnet-outdated-automatisch-nuget-pakete-aktualisieren/)
 - [Lottie Animationen in eine .NET MAUI App integrieren](https://www.tsjdev-apps.de/lottie-animationen-in-eine-net-maui-app-integrieren/)
-- [Blockierte Ports unter Windows freigeben](https://www.tsjdev-apps.de/blockierte-ports-unter-windows-freigeben/)
-- [Rückblick auf 2023 und Ausblick auf 2024](https://www.tsjdev-apps.de/rueckblick-auf-2023-und-ausblick-auf-2024/)
-- [Snake-Spiel in Python mit ChatGPT entwickelt](https://www.tsjdev-apps.de/snake-spiel-in-python-mit-chatgpt-entwickelt/)
-- [Einrichten von GitHub Sponsors für ein persönliches Konto](https://www.tsjdev-apps.de/einrichten-von-github-sponsors-fuer-ein-persoenliches-konto/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
