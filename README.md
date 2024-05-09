@@ -34,6 +34,9 @@
 - [MAUI App Accelerator – Erweiterung, um MAUI Apps schneller entwickeln zu können](https://www.tsjdev-apps.de/maui-app-accelerator-erweiterung-um-maui-apps-schneller-entwickeln-zu-koennen/)
 - [Mit dotnet outdated automatisch NuGet Pakete aktualisieren](https://www.tsjdev-apps.de/mit-dotnet-outdated-automatisch-nuget-pakete-aktualisieren/)
 - [Lottie Animationen in eine .NET MAUI App integrieren](https://www.tsjdev-apps.de/lottie-animationen-in-eine-net-maui-app-integrieren/)
+- [Blockierte Ports unter Windows freigeben](https://www.tsjdev-apps.de/blockierte-ports-unter-windows-freigeben/)
+- [Rückblick auf 2023 und Ausblick auf 2024](https://www.tsjdev-apps.de/rueckblick-auf-2023-und-ausblick-auf-2024/)
+- [Snake-Spiel in Python mit ChatGPT entwickelt](https://www.tsjdev-apps.de/snake-spiel-in-python-mit-chatgpt-entwickelt/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
