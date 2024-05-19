@@ -12,6 +12,7 @@
 
 ### Recent blog posts on [Medium.com](https://medium.com/@tsjdevapps) in English 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Getting an image description using GPT-4o or GPT-4 Turbo](https://medium.com/medialesson/getting-an-image-description-using-gpt-4o-or-gpt-4-turbo-e771e1b3f262?source=rss-c8f6762e0e4b------2)
 - [Let’s compare the OpenAI models in C#](https://medium.com/medialesson/lets-compare-the-openai-models-in-c-916e33e1d539?source=rss-c8f6762e0e4b------2)
 - [#RP5: Use SSH keys to connect to your Raspberry Pi](https://medium.com/medialesson/rp5-use-ssh-keys-to-connect-to-your-raspberry-pi-7f90ed746437?source=rss-c8f6762e0e4b------2)
 - [Build your .NET MAUI Android application with Azure DevOps](https://medium.com/medialesson/build-your-net-maui-android-application-with-azure-devops-8183fd0473fd?source=rss-c8f6762e0e4b------2)
@@ -21,7 +22,6 @@
 - [Creating a copilot using OpenAI and/or Azure OpenAI](https://medium.com/medialesson/creating-a-copilot-using-openai-and-or-azure-openai-03938fcf7413?source=rss-c8f6762e0e4b------2)
 - [Use OpenAI’s Translation API to translate audio files to English](https://medium.com/medialesson/use-openais-translation-api-to-translate-audio-files-to-english-407fc58e0caf?source=rss-c8f6762e0e4b------2)
 - [Use Azure OpenAI to get a transcript of any MP3 file using C#](https://medium.com/medialesson/use-azure-openai-to-get-a-transcript-of-any-mp3-file-using-c-70df15a282ca?source=rss-c8f6762e0e4b------2)
-- [Use OpenAI’s Vision API to get a description of an image](https://medium.com/medialesson/use-openais-vision-api-to-get-a-description-of-an-image-7c6446f56c25?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 
