@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Rückblick: Microsoft Build 2024](https://www.tsjdev-apps.de/rueckblick-microsoft-build-2024/)
 - [Einrichtung von Azure OpenAI](https://www.tsjdev-apps.de/einrichtung-von-azure-openai/)
 - [Einrichtung von OpenAI](https://www.tsjdev-apps.de/einrichtung-von-openai/)
 - [Abkürzungen der Künstlichen Intelligenz](https://www.tsjdev-apps.de/abkuerzungen-der-kuenstlichen-intelligenz/)
@@ -36,7 +37,6 @@
 - [Lottie Animationen in eine .NET MAUI App integrieren](https://www.tsjdev-apps.de/lottie-animationen-in-eine-net-maui-app-integrieren/)
 - [Blockierte Ports unter Windows freigeben](https://www.tsjdev-apps.de/blockierte-ports-unter-windows-freigeben/)
 - [Rückblick auf 2023 und Ausblick auf 2024](https://www.tsjdev-apps.de/rueckblick-auf-2023-und-ausblick-auf-2024/)
-- [Snake-Spiel in Python mit ChatGPT entwickelt](https://www.tsjdev-apps.de/snake-spiel-in-python-mit-chatgpt-entwickelt/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
