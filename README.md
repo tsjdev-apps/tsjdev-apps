@@ -12,6 +12,7 @@
 
 ### Recent blog posts on [Medium.com](https://medium.com/@tsjdevapps) in English 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Using Phi-3 Mini with ONNX as local Small Language Model](https://medium.com/medialesson/using-phi-3-mini-with-onnx-as-local-small-language-model-2466f559af73?source=rss-c8f6762e0e4b------2)
 - [Using the official OpenAI library for .NET to access local running LLMs ans SLMs](https://medium.com/medialesson/using-the-official-openai-library-for-net-to-access-local-running-llms-ans-slms-dfdbc0f90404?source=rss-c8f6762e0e4b------2)
 - [Getting an image description using GPT-4o or GPT-4 Turbo](https://medium.com/medialesson/getting-an-image-description-using-gpt-4o-or-gpt-4-turbo-e771e1b3f262?source=rss-c8f6762e0e4b------2)
 - [Let’s compare the OpenAI models in C#](https://medium.com/medialesson/lets-compare-the-openai-models-in-c-916e33e1d539?source=rss-c8f6762e0e4b------2)
@@ -21,7 +22,6 @@
 - [Add Lottie animations to your Angular project](https://medium.com/medialesson/add-lottie-animations-to-your-angular-project-3e8f632d6212?source=rss-c8f6762e0e4b------2)
 - [Using Ollama to run local LLMs on your computer](https://medium.com/medialesson/using-ollama-to-run-local-llms-on-your-computer-2e2ee6572a13?source=rss-c8f6762e0e4b------2)
 - [Creating a copilot using OpenAI and/or Azure OpenAI](https://medium.com/medialesson/creating-a-copilot-using-openai-and-or-azure-openai-03938fcf7413?source=rss-c8f6762e0e4b------2)
-- [Use OpenAI’s Translation API to translate audio files to English](https://medium.com/medialesson/use-openais-translation-api-to-translate-audio-files-to-english-407fc58e0caf?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 
