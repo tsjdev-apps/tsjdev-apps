@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Phi-3 Mini mit ONNX als lokales Small Language Model nutzen](https://www.tsjdev-apps.de/phi-3-mini-mit-onnx-als-lokales-small-language-model-nutzen/)
 - [Verwendung von Ollama zur Ausführung lokaler LLMs auf deinem Computer](https://www.tsjdev-apps.de/verwendung-von-ollama-zur-ausfuehrung-lokaler-llms-auf-deinem-computer/)
 - [Erstellung eines Gauge Controls mit SkiaSharp in .NET MAUI](https://www.tsjdev-apps.de/erstellung-eines-gauge-controls-mit-skiasharp-in-net-maui/)
 - [Rückblick: Microsoft Build 2024](https://www.tsjdev-apps.de/rueckblick-microsoft-build-2024/)
@@ -36,7 +37,6 @@
 - [Unvollständige Geschichte der KI](https://www.tsjdev-apps.de/unvollstaendige-geschichte-der-ki/)
 - [MAUI App Accelerator – Erweiterung, um MAUI Apps schneller entwickeln zu können](https://www.tsjdev-apps.de/maui-app-accelerator-erweiterung-um-maui-apps-schneller-entwickeln-zu-koennen/)
 - [Mit dotnet outdated automatisch NuGet Pakete aktualisieren](https://www.tsjdev-apps.de/mit-dotnet-outdated-automatisch-nuget-pakete-aktualisieren/)
-- [Lottie Animationen in eine .NET MAUI App integrieren](https://www.tsjdev-apps.de/lottie-animationen-in-eine-net-maui-app-integrieren/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
