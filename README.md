@@ -12,6 +12,7 @@
 
 ### Recent blog posts on [Medium.com](https://medium.com/@tsjdevapps) in English 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Using the official OpenAI library for .NET to Access llamafile LLMs](https://medium.com/medialesson/using-the-official-openai-library-for-net-to-access-llamafile-llms-c0d8668dbc1d?source=rss-c8f6762e0e4b------2)
 - [Create a Gauge control using SkiaSharp in .NET MAUI](https://medium.com/@tsjdevapps/create-a-gauge-control-using-skiasharp-in-net-maui-ce418e6320fb?source=rss-c8f6762e0e4b------2)
 - [Using Phi-3 Vision with ONNX as local Small Language Model to analyze images](https://medium.com/medialesson/using-phi-3-vision-with-onnx-as-local-small-language-model-to-analyze-images-a49573dc36a2?source=rss-c8f6762e0e4b------2)
 - [Using Phi-3 Mini with ONNX as local Small Language Model](https://medium.com/medialesson/using-phi-3-mini-with-onnx-as-local-small-language-model-2466f559af73?source=rss-c8f6762e0e4b------2)
@@ -21,7 +22,6 @@
 - [#RP5: Use SSH keys to connect to your Raspberry Pi](https://medium.com/medialesson/rp5-use-ssh-keys-to-connect-to-your-raspberry-pi-7f90ed746437?source=rss-c8f6762e0e4b------2)
 - [Build your .NET MAUI Android application with Azure DevOps](https://medium.com/medialesson/build-your-net-maui-android-application-with-azure-devops-8183fd0473fd?source=rss-c8f6762e0e4b------2)
 - [#RP5: Setup a Raspberry Pi 5 for development](https://medium.com/medialesson/rp5-setup-a-raspberry-pi-5-for-development-09eebf94b959?source=rss-c8f6762e0e4b------2)
-- [Add Lottie animations to your Angular project](https://medium.com/medialesson/add-lottie-animations-to-your-angular-project-3e8f632d6212?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 
