@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Lokale WordPress Installation mit Docker](https://www.tsjdev-apps.de/lokale-wordpress-installation-mit-docker/)
 - [Buch-Tipp: Head First C#, Fifth Edition](https://www.tsjdev-apps.de/buch-tipp-head-first-csharp-fifth-edition/)
 - [Phi-3 Vision mit ONNX als lokales SLM für die Bild-Analyse](https://www.tsjdev-apps.de/phi-3-vision-mit-onnx-als-lokales-slm-fuer-die-bild-analyse/)
 - [Phi-3 Mini mit ONNX als lokales Small Language Model nutzen](https://www.tsjdev-apps.de/phi-3-mini-mit-onnx-als-lokales-small-language-model-nutzen/)
@@ -36,7 +37,6 @@
 - [Einrichtung von Azure OpenAI](https://www.tsjdev-apps.de/einrichtung-von-azure-openai/)
 - [Einrichtung von OpenAI](https://www.tsjdev-apps.de/einrichtung-von-openai/)
 - [Abkürzungen der Künstlichen Intelligenz](https://www.tsjdev-apps.de/abkuerzungen-der-kuenstlichen-intelligenz/)
-- [Unvollständige Geschichte der KI](https://www.tsjdev-apps.de/unvollstaendige-geschichte-der-ki/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
