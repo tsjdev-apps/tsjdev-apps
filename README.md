@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [WordPress-Installation mit Studio by WordPress.com](https://www.tsjdev-apps.de/wordpress-installation-mit-studio-by-wordpress-com/)
 - [Lokale WordPress Installation mit Docker](https://www.tsjdev-apps.de/lokale-wordpress-installation-mit-docker/)
 - [Buch-Tipp: Head First C#, Fifth Edition](https://www.tsjdev-apps.de/buch-tipp-head-first-csharp-fifth-edition/)
 - [Phi-3 Vision mit ONNX als lokales SLM für die Bild-Analyse](https://www.tsjdev-apps.de/phi-3-vision-mit-onnx-als-lokales-slm-fuer-die-bild-analyse/)
@@ -36,7 +37,6 @@
 - [Rückblick: Microsoft Build 2024](https://www.tsjdev-apps.de/rueckblick-microsoft-build-2024/)
 - [Einrichtung von Azure OpenAI](https://www.tsjdev-apps.de/einrichtung-von-azure-openai/)
 - [Einrichtung von OpenAI](https://www.tsjdev-apps.de/einrichtung-von-openai/)
-- [Abkürzungen der Künstlichen Intelligenz](https://www.tsjdev-apps.de/abkuerzungen-der-kuenstlichen-intelligenz/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
