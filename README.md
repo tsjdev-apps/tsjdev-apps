@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [SnakeAI – ChatGPT vs. Grok vs. Gemini](https://www.tsjdev-apps.de/snakeai-chatgpt-vs-grok-vs-gemini/)
 - [WordPress-Installation mit Studio by WordPress.com](https://www.tsjdev-apps.de/wordpress-installation-mit-studio-by-wordpress-com/)
 - [Lokale WordPress Installation mit Docker](https://www.tsjdev-apps.de/lokale-wordpress-installation-mit-docker/)
 - [Buch-Tipp: Head First C#, Fifth Edition](https://www.tsjdev-apps.de/buch-tipp-head-first-csharp-fifth-edition/)
@@ -36,7 +37,6 @@
 - [Erstellung eines Gauge Controls mit SkiaSharp in .NET MAUI](https://www.tsjdev-apps.de/erstellung-eines-gauge-controls-mit-skiasharp-in-net-maui/)
 - [Rückblick: Microsoft Build 2024](https://www.tsjdev-apps.de/rueckblick-microsoft-build-2024/)
 - [Einrichtung von Azure OpenAI](https://www.tsjdev-apps.de/einrichtung-von-azure-openai/)
-- [Einrichtung von OpenAI](https://www.tsjdev-apps.de/einrichtung-von-openai/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
