@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Azure.AI.OpenAI NuGet Package in Version 2.0.0 veröffentlicht](https://www.tsjdev-apps.de/azure-ai-openai-nuget-package-in-version-2-0-0-veroeffentlicht/)
 - [Rückblick: .NET MAUI Day 2024](https://www.tsjdev-apps.de/rueckblick-net-maui-day-2024/)
 - [OenAI DevDay 2024: Die wichtigsten Neuerungen im Überblick](https://www.tsjdev-apps.de/oenai-devday-2024-die-wichtigsten-neuerungen-im-ueberblick/)
 - [NuGet-Paket mit einem Icon versehen](https://www.tsjdev-apps.de/nuget-paket-mit-einem-icon-versehen/)
@@ -36,7 +37,6 @@
 - [Buch-Tipp: Head First C#, Fifth Edition](https://www.tsjdev-apps.de/buch-tipp-head-first-csharp-fifth-edition/)
 - [Phi-3 Vision mit ONNX als lokales SLM für die Bild-Analyse](https://www.tsjdev-apps.de/phi-3-vision-mit-onnx-als-lokales-slm-fuer-die-bild-analyse/)
 - [Phi-3 Mini mit ONNX als lokales Small Language Model nutzen](https://www.tsjdev-apps.de/phi-3-mini-mit-onnx-als-lokales-small-language-model-nutzen/)
-- [Verwendung von Ollama zur Ausführung lokaler LLMs auf deinem Computer](https://www.tsjdev-apps.de/verwendung-von-ollama-zur-ausfuehrung-lokaler-llms-auf-deinem-computer/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
