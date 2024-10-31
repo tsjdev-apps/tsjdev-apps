@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [JetBrains Rider – IDE für .NET Entwicklung nun kostenlos nutzbar](https://www.tsjdev-apps.de/jetbrains-rider-ide-fuer-net-entwicklung-nun-kostenlos-nutzbar/)
 - [Azure.AI.OpenAI NuGet Package in Version 2.0.0 veröffentlicht](https://www.tsjdev-apps.de/azure-ai-openai-nuget-package-in-version-2-0-0-veroeffentlicht/)
 - [Rückblick: .NET MAUI Day 2024](https://www.tsjdev-apps.de/rueckblick-net-maui-day-2024/)
 - [OenAI DevDay 2024: Die wichtigsten Neuerungen im Überblick](https://www.tsjdev-apps.de/oenai-devday-2024-die-wichtigsten-neuerungen-im-ueberblick/)
@@ -36,7 +37,6 @@
 - [Lokale WordPress Installation mit Docker](https://www.tsjdev-apps.de/lokale-wordpress-installation-mit-docker/)
 - [Buch-Tipp: Head First C#, Fifth Edition](https://www.tsjdev-apps.de/buch-tipp-head-first-csharp-fifth-edition/)
 - [Phi-3 Vision mit ONNX als lokales SLM für die Bild-Analyse](https://www.tsjdev-apps.de/phi-3-vision-mit-onnx-als-lokales-slm-fuer-die-bild-analyse/)
-- [Phi-3 Mini mit ONNX als lokales Small Language Model nutzen](https://www.tsjdev-apps.de/phi-3-mini-mit-onnx-als-lokales-small-language-model-nutzen/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
