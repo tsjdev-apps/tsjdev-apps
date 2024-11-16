@@ -12,6 +12,7 @@
 
 ### Recent blog posts on [Medium.com](https://medium.com/@tsjdevapps) in English 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Using Microsoft.Extensions.AI to Build a Simple Chat in .NET](https://medium.com/medialesson/using-microsoft-extensions-ai-to-build-a-simple-chat-in-net-13cb0ddf3157?source=rss-c8f6762e0e4b------2)
 - [Using Structured Outputs to Generate JSON responses with OpenAI](https://medium.com/medialesson/using-structured-outputs-to-generate-json-responses-with-openai-e01f591b740f?source=rss-c8f6762e0e4b------2)
 - [Using ChatTools to Implement Custom Logic in Your Azure OpenAI Project](https://medium.com/medialesson/using-chattools-to-implement-custom-logic-in-your-azure-openai-project-26ee211529fe?source=rss-c8f6762e0e4b------2)
 - [Using the official OpenAI library for .NET to Access llamafile LLMs](https://medium.com/medialesson/using-the-official-openai-library-for-net-to-access-llamafile-llms-c0d8668dbc1d?source=rss-c8f6762e0e4b------2)
@@ -21,7 +22,6 @@
 - [Using the official OpenAI library for .NET to access local running LLMs ans SLMs](https://medium.com/medialesson/using-the-official-openai-library-for-net-to-access-local-running-llms-ans-slms-dfdbc0f90404?source=rss-c8f6762e0e4b------2)
 - [Getting an image description using GPT-4o or GPT-4 Turbo](https://medium.com/medialesson/getting-an-image-description-using-gpt-4o-or-gpt-4-turbo-e771e1b3f262?source=rss-c8f6762e0e4b------2)
 - [Let’s compare the OpenAI models in C#](https://medium.com/medialesson/lets-compare-the-openai-models-in-c-916e33e1d539?source=rss-c8f6762e0e4b------2)
-- [#RP5: Use SSH keys to connect to your Raspberry Pi](https://medium.com/medialesson/rp5-use-ssh-keys-to-connect-to-your-raspberry-pi-7f90ed746437?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 
