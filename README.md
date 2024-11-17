@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Arbeiten mit ZIP-Dateien in .NET](https://www.tsjdev-apps.de/arbeiten-mit-zip-dateien-in-net/)
 - [GitHub Copilot Workspace: Per AI GitHub Issues bearbeiten](https://www.tsjdev-apps.de/github-copilot-workspace-per-ai-github-issues-bearbeiten/)
 - [JetBrains Rider – IDE für .NET Entwicklung nun kostenlos nutzbar](https://www.tsjdev-apps.de/jetbrains-rider-ide-fuer-net-entwicklung-nun-kostenlos-nutzbar/)
 - [Azure.AI.OpenAI NuGet Package in Version 2.0.0 veröffentlicht](https://www.tsjdev-apps.de/azure-ai-openai-nuget-package-in-version-2-0-0-veroeffentlicht/)
@@ -36,7 +37,6 @@
 - [SnakeAI – ChatGPT vs. Grok vs. Gemini](https://www.tsjdev-apps.de/snakeai-chatgpt-vs-grok-vs-gemini/)
 - [WordPress-Installation mit Studio by WordPress.com](https://www.tsjdev-apps.de/wordpress-installation-mit-studio-by-wordpress-com/)
 - [Lokale WordPress Installation mit Docker](https://www.tsjdev-apps.de/lokale-wordpress-installation-mit-docker/)
-- [Buch-Tipp: Head First C#, Fifth Edition](https://www.tsjdev-apps.de/buch-tipp-head-first-csharp-fifth-edition/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
