@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [QR-Codes leicht gemacht: Wie du mit QRCoder in C# QR-Codes erzeugen kannst!](https://www.tsjdev-apps.de/qr-codes-leicht-gemacht-wie-du-mit-qrcoder-in-c-qr-codes-erzeugen-kannst/)
 - [Arbeiten mit ZIP-Dateien in .NET](https://www.tsjdev-apps.de/arbeiten-mit-zip-dateien-in-net/)
 - [GitHub Copilot Workspace: Per AI GitHub Issues bearbeiten](https://www.tsjdev-apps.de/github-copilot-workspace-per-ai-github-issues-bearbeiten/)
 - [JetBrains Rider – IDE für .NET Entwicklung nun kostenlos nutzbar](https://www.tsjdev-apps.de/jetbrains-rider-ide-fuer-net-entwicklung-nun-kostenlos-nutzbar/)
@@ -36,7 +37,6 @@
 - [NuGet-Paket mit einem Icon versehen](https://www.tsjdev-apps.de/nuget-paket-mit-einem-icon-versehen/)
 - [SnakeAI – ChatGPT vs. Grok vs. Gemini](https://www.tsjdev-apps.de/snakeai-chatgpt-vs-grok-vs-gemini/)
 - [WordPress-Installation mit Studio by WordPress.com](https://www.tsjdev-apps.de/wordpress-installation-mit-studio-by-wordpress-com/)
-- [Lokale WordPress Installation mit Docker](https://www.tsjdev-apps.de/lokale-wordpress-installation-mit-docker/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
