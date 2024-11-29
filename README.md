@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Eigene Schriftart auf einem Kindle installieren](https://www.tsjdev-apps.de/eigene-schriftart-auf-einem-kindle-installieren/)
 - [QR-Codes leicht gemacht: Wie du mit QRCoder in C# QR-Codes erzeugen kannst!](https://www.tsjdev-apps.de/qr-codes-leicht-gemacht-wie-du-mit-qrcoder-in-c-qr-codes-erzeugen-kannst/)
 - [Arbeiten mit ZIP-Dateien in .NET](https://www.tsjdev-apps.de/arbeiten-mit-zip-dateien-in-net/)
 - [GitHub Copilot Workspace: Per AI GitHub Issues bearbeiten](https://www.tsjdev-apps.de/github-copilot-workspace-per-ai-github-issues-bearbeiten/)
@@ -36,7 +37,6 @@
 - [OenAI DevDay 2024: Die wichtigsten Neuerungen im Überblick](https://www.tsjdev-apps.de/oenai-devday-2024-die-wichtigsten-neuerungen-im-ueberblick/)
 - [NuGet-Paket mit einem Icon versehen](https://www.tsjdev-apps.de/nuget-paket-mit-einem-icon-versehen/)
 - [SnakeAI – ChatGPT vs. Grok vs. Gemini](https://www.tsjdev-apps.de/snakeai-chatgpt-vs-grok-vs-gemini/)
-- [WordPress-Installation mit Studio by WordPress.com](https://www.tsjdev-apps.de/wordpress-installation-mit-studio-by-wordpress-com/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
