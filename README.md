@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Buch-Tipp: Cross-Plattform-Apps mit .NET MAUI entwickeln &lpar;2. Auflage&rpar; von André Krämer](https://www.tsjdev-apps.de/buch-tipp-cross-plattform-apps-mit-net-maui-entwickeln-2-auflage-von-andre-kraemer/)
 - [Eigene Schriftart auf einem Kindle installieren](https://www.tsjdev-apps.de/eigene-schriftart-auf-einem-kindle-installieren/)
 - [QR-Codes leicht gemacht: Wie du mit QRCoder in C# QR-Codes erzeugen kannst!](https://www.tsjdev-apps.de/qr-codes-leicht-gemacht-wie-du-mit-qrcoder-in-c-qr-codes-erzeugen-kannst/)
 - [Arbeiten mit ZIP-Dateien in .NET](https://www.tsjdev-apps.de/arbeiten-mit-zip-dateien-in-net/)
@@ -36,7 +37,6 @@
 - [Rückblick: .NET MAUI Day 2024](https://www.tsjdev-apps.de/rueckblick-net-maui-day-2024/)
 - [OenAI DevDay 2024: Die wichtigsten Neuerungen im Überblick](https://www.tsjdev-apps.de/oenai-devday-2024-die-wichtigsten-neuerungen-im-ueberblick/)
 - [NuGet-Paket mit einem Icon versehen](https://www.tsjdev-apps.de/nuget-paket-mit-einem-icon-versehen/)
-- [SnakeAI – ChatGPT vs. Grok vs. Gemini](https://www.tsjdev-apps.de/snakeai-chatgpt-vs-grok-vs-gemini/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
