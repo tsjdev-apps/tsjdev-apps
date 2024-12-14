@@ -12,6 +12,7 @@
 
 ### Recent blog posts on [Medium.com](https://medium.com/@tsjdevapps) in English 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Use the GPT-4o Realtime model to have a conversation with Santa Claus](https://medium.com/medialesson/use-the-gpt-4o-realtime-model-to-have-a-conversation-with-santa-claus-08dd3ac4d97b?source=rss-c8f6762e0e4b------2)
 - [GitHub Models: Your Playground for Exploring and Comparing AI Models](https://medium.com/medialesson/github-models-your-playground-for-exploring-and-comparing-ai-models-d40770431b16?source=rss-c8f6762e0e4b------2)
 - [Using Microsoft.Extensions.AI to Generate Embeddings in .NET](https://medium.com/medialesson/using-microsoft-extensions-ai-to-generate-embeddings-in-net-0e6485180593?source=rss-c8f6762e0e4b------2)
 - [Add Data from Your Website to Your AI Chat Client](https://medium.com/medialesson/add-data-from-your-website-to-your-ai-chat-client-cee94ffcd1f6?source=rss-c8f6762e0e4b------2)
@@ -21,7 +22,6 @@
 - [Using the official OpenAI library for .NET to Access llamafile LLMs](https://medium.com/medialesson/using-the-official-openai-library-for-net-to-access-llamafile-llms-c0d8668dbc1d?source=rss-c8f6762e0e4b------2)
 - [Create a Gauge control using SkiaSharp in .NET MAUI](https://medium.com/@tsjdevapps/create-a-gauge-control-using-skiasharp-in-net-maui-ce418e6320fb?source=rss-c8f6762e0e4b------2)
 - [Using Phi-3 Vision with ONNX as local Small Language Model to analyze images](https://medium.com/medialesson/using-phi-3-vision-with-onnx-as-local-small-language-model-to-analyze-images-a49573dc36a2?source=rss-c8f6762e0e4b------2)
-- [Using Phi-3 Mini with ONNX as local Small Language Model](https://medium.com/medialesson/using-phi-3-mini-with-onnx-as-local-small-language-model-2466f559af73?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 
