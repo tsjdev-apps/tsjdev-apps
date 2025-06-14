@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Highlights der Microsoft Build 2025: Die Zukunft der KI-gestützten Entwicklung](https://www.tsjdev-apps.de/highlights-der-microsoft-build-2025-die-zukunft-der-ki-gestuetzten-entwicklung/)
 - [Rückblick auf 2024 und Ausblick auf 2025](https://www.tsjdev-apps.de/rueckblick-auf-2024-und-ausblick-auf-2025/)
 - [GitHub Models: Dein Playground zum Erkunden und Vergleichen von KI-Modellen](https://www.tsjdev-apps.de/github-models-dein-playground-zum-erkunden-und-vergleichen-von-ki-modellen/)
 - [Automatische Aktualisierung der GitHub-Readme mit den neuesten Blog-Beiträgen](https://www.tsjdev-apps.de/automatische-aktualisierung-der-github-readme-mit-den-neuesten-blog-beitraegen/)
@@ -36,7 +37,6 @@
 - [Arbeiten mit ZIP-Dateien in .NET](https://www.tsjdev-apps.de/arbeiten-mit-zip-dateien-in-net/)
 - [GitHub Copilot Workspace: Per AI GitHub Issues bearbeiten](https://www.tsjdev-apps.de/github-copilot-workspace-per-ai-github-issues-bearbeiten/)
 - [JetBrains Rider – IDE für .NET Entwicklung nun kostenlos nutzbar](https://www.tsjdev-apps.de/jetbrains-rider-ide-fuer-net-entwicklung-nun-kostenlos-nutzbar/)
-- [Azure.AI.OpenAI NuGet Package in Version 2.0.0 veröffentlicht](https://www.tsjdev-apps.de/azure-ai-openai-nuget-package-in-version-2-0-0-veroeffentlicht/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
