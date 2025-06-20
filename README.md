@@ -12,6 +12,7 @@
 
 ### Recent blog posts on [Medium.com](https://medium.com/@tsjdevapps) in English 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Getting Started with Model Router in Azure AI Foundry Using C#](https://medium.com/medialesson/getting-started-with-model-router-in-azure-ai-foundry-using-c-d17a10681a3f?source=rss-c8f6762e0e4b------2)
 - [How to Create Your Own Podcast with the Help of AI](https://medium.com/medialesson/how-to-create-your-own-podcast-with-the-help-of-ai-0dfe3c1d2a4d?source=rss-c8f6762e0e4b------2)
 - [Use the GPT-4o Realtime model to have a conversation with Santa Claus](https://medium.com/medialesson/use-the-gpt-4o-realtime-model-to-have-a-conversation-with-santa-claus-08dd3ac4d97b?source=rss-c8f6762e0e4b------2)
 - [GitHub Models: Your Playground for Exploring and Comparing AI Models](https://medium.com/medialesson/github-models-your-playground-for-exploring-and-comparing-ai-models-d40770431b16?source=rss-c8f6762e0e4b------2)
@@ -21,7 +22,6 @@
 - [Using Structured Outputs to Generate JSON responses with OpenAI](https://medium.com/medialesson/using-structured-outputs-to-generate-json-responses-with-openai-e01f591b740f?source=rss-c8f6762e0e4b------2)
 - [Using ChatTools to Implement Custom Logic in Your Azure OpenAI Project](https://medium.com/medialesson/using-chattools-to-implement-custom-logic-in-your-azure-openai-project-26ee211529fe?source=rss-c8f6762e0e4b------2)
 - [Using the official OpenAI library for .NET to Access llamafile LLMs](https://medium.com/medialesson/using-the-official-openai-library-for-net-to-access-llamafile-llms-c0d8668dbc1d?source=rss-c8f6762e0e4b------2)
-- [Create a Gauge control using SkiaSharp in .NET MAUI](https://medium.com/@tsjdevapps/create-a-gauge-control-using-skiasharp-in-net-maui-ce418e6320fb?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 
