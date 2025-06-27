@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Erste Schritte mit dem Model Router in Azure AI Foundry mit C#](https://www.tsjdev-apps.de/erste-schritte-mit-dem-model-router-in-azure-ai-foundry-mit-c/)
 - [So erstellst du deinen eigenen Podcast mit Hilfe von KI](https://www.tsjdev-apps.de/so-erstellst-du-deinen-eigenen-podcast-mit-hilfe-von-ki/)
 - [Highlights der Microsoft Build 2025: Die Zukunft der KI-gestützten Entwicklung](https://www.tsjdev-apps.de/highlights-der-microsoft-build-2025-die-zukunft-der-ki-gestuetzten-entwicklung/)
 - [Rückblick auf 2024 und Ausblick auf 2025](https://www.tsjdev-apps.de/rueckblick-auf-2024-und-ausblick-auf-2025/)
@@ -36,7 +37,6 @@
 - [Eigene Schriftart auf einem Kindle installieren](https://www.tsjdev-apps.de/eigene-schriftart-auf-einem-kindle-installieren/)
 - [QR-Codes leicht gemacht: Wie du mit QRCoder in C# QR-Codes erzeugen kannst!](https://www.tsjdev-apps.de/qr-codes-leicht-gemacht-wie-du-mit-qrcoder-in-c-qr-codes-erzeugen-kannst/)
 - [Arbeiten mit ZIP-Dateien in .NET](https://www.tsjdev-apps.de/arbeiten-mit-zip-dateien-in-net/)
-- [GitHub Copilot Workspace: Per AI GitHub Issues bearbeiten](https://www.tsjdev-apps.de/github-copilot-workspace-per-ai-github-issues-bearbeiten/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
