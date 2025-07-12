@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Beliebige Windows-Version schnell per Docker starten – perfekt für Tests und Entwicklung](https://www.tsjdev-apps.de/windows-per-docker-starten/)
 - [Konsolen-Applikationen mit Spectre.Console und .NET](https://www.tsjdev-apps.de/konsolen-applikationen-mit-spectre-console-und-net/)
 - [Erste Schritte mit dem Model Router in Azure AI Foundry mit C#](https://www.tsjdev-apps.de/erste-schritte-mit-dem-model-router-in-azure-ai-foundry-mit-c/)
 - [So erstellst du deinen eigenen Podcast mit Hilfe von KI](https://www.tsjdev-apps.de/so-erstellst-du-deinen-eigenen-podcast-mit-hilfe-von-ki/)
@@ -36,7 +37,6 @@
 - [Automatische Aktualisierung der GitHub-Readme mit den neuesten Blog-Beiträgen](https://www.tsjdev-apps.de/automatische-aktualisierung-der-github-readme-mit-den-neuesten-blog-beitraegen/)
 - [Buch-Tipp: Cross-Plattform-Apps mit .NET MAUI entwickeln &lpar;2. Auflage&rpar; von André Krämer](https://www.tsjdev-apps.de/buch-tipp-cross-plattform-apps-mit-net-maui-entwickeln-2-auflage-von-andre-kraemer/)
 - [Eigene Schriftart auf einem Kindle installieren](https://www.tsjdev-apps.de/eigene-schriftart-auf-einem-kindle-installieren/)
-- [QR-Codes leicht gemacht: Wie du mit QRCoder in C# QR-Codes erzeugen kannst!](https://www.tsjdev-apps.de/qr-codes-leicht-gemacht-wie-du-mit-qrcoder-in-c-qr-codes-erzeugen-kannst/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
