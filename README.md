@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [GitHub Actions lokal testen mit Act](https://www.tsjdev-apps.de/github-actions-lokal-testen-mit-act/)
 - [Beliebige Windows-Version schnell per Docker starten – perfekt für Tests und Entwicklung](https://www.tsjdev-apps.de/windows-per-docker-starten/)
 - [Konsolen-Applikationen mit Spectre.Console und .NET](https://www.tsjdev-apps.de/konsolen-applikationen-mit-spectre-console-und-net/)
 - [Erste Schritte mit dem Model Router in Azure AI Foundry mit C#](https://www.tsjdev-apps.de/erste-schritte-mit-dem-model-router-in-azure-ai-foundry-mit-c/)
@@ -36,7 +37,6 @@
 - [GitHub Models: Dein Playground zum Erkunden und Vergleichen von KI-Modellen](https://www.tsjdev-apps.de/github-models-dein-playground-zum-erkunden-und-vergleichen-von-ki-modellen/)
 - [Automatische Aktualisierung der GitHub-Readme mit den neuesten Blog-Beiträgen](https://www.tsjdev-apps.de/automatische-aktualisierung-der-github-readme-mit-den-neuesten-blog-beitraegen/)
 - [Buch-Tipp: Cross-Plattform-Apps mit .NET MAUI entwickeln &lpar;2. Auflage&rpar; von André Krämer](https://www.tsjdev-apps.de/buch-tipp-cross-plattform-apps-mit-net-maui-entwickeln-2-auflage-von-andre-kraemer/)
-- [Eigene Schriftart auf einem Kindle installieren](https://www.tsjdev-apps.de/eigene-schriftart-auf-einem-kindle-installieren/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
