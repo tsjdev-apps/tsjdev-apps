@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Meine .NET MAUI Controls Library – jetzt auf NuGet verfügbar!](https://www.tsjdev-apps.de/dotnet-maui-controls-library-nuget/)
 - [Fragen beantworten mit PowerShell und OpenAI](https://www.tsjdev-apps.de/powershell-openai-answer-funktion/)
 - [GitHub Actions lokal testen mit Act](https://www.tsjdev-apps.de/github-actions-lokal-testen-mit-act/)
 - [Beliebige Windows-Version schnell per Docker starten – perfekt für Tests und Entwicklung](https://www.tsjdev-apps.de/windows-per-docker-starten/)
@@ -36,7 +37,6 @@
 - [Highlights der Microsoft Build 2025: Die Zukunft der KI-gestützten Entwicklung](https://www.tsjdev-apps.de/highlights-der-microsoft-build-2025-die-zukunft-der-ki-gestuetzten-entwicklung/)
 - [Rückblick auf 2024 und Ausblick auf 2025](https://www.tsjdev-apps.de/rueckblick-auf-2024-und-ausblick-auf-2025/)
 - [GitHub Models: Dein Playground zum Erkunden und Vergleichen von KI-Modellen](https://www.tsjdev-apps.de/github-models-dein-playground-zum-erkunden-und-vergleichen-von-ki-modellen/)
-- [Automatische Aktualisierung der GitHub-Readme mit den neuesten Blog-Beiträgen](https://www.tsjdev-apps.de/automatische-aktualisierung-der-github-readme-mit-den-neuesten-blog-beitraegen/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
