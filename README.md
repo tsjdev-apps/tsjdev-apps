@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Cronjobs in Azure Functions: Zeitgesteuerte Aufgaben mit dem TimerTrigger ausführen](https://www.tsjdev-apps.de/cronjobs-in-azure-functions/)
 - [Meine .NET MAUI Controls Library – jetzt auf NuGet verfügbar!](https://www.tsjdev-apps.de/dotnet-maui-controls-library-nuget/)
 - [Fragen beantworten mit PowerShell und OpenAI](https://www.tsjdev-apps.de/powershell-openai-answer-funktion/)
 - [GitHub Actions lokal testen mit Act](https://www.tsjdev-apps.de/github-actions-lokal-testen-mit-act/)
@@ -36,7 +37,6 @@
 - [So erstellst du deinen eigenen Podcast mit Hilfe von KI](https://www.tsjdev-apps.de/so-erstellst-du-deinen-eigenen-podcast-mit-hilfe-von-ki/)
 - [Highlights der Microsoft Build 2025: Die Zukunft der KI-gestützten Entwicklung](https://www.tsjdev-apps.de/highlights-der-microsoft-build-2025-die-zukunft-der-ki-gestuetzten-entwicklung/)
 - [Rückblick auf 2024 und Ausblick auf 2025](https://www.tsjdev-apps.de/rueckblick-auf-2024-und-ausblick-auf-2025/)
-- [GitHub Models: Dein Playground zum Erkunden und Vergleichen von KI-Modellen](https://www.tsjdev-apps.de/github-models-dein-playground-zum-erkunden-und-vergleichen-von-ki-modellen/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
