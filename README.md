@@ -12,6 +12,7 @@
 
 ### Recent blog posts on [Medium.com](https://medium.com/@tsjdevapps) in English 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [GitHub Actions Locally with act](https://medium.com/medialesson/github-actions-locally-with-act-c6f945309276?source=rss-c8f6762e0e4b------2)
 - [PicCaptionr: Generate Instagram-Ready Captions with AI](https://medium.com/medialesson/piccaptionr-generate-instagram-ready-captions-with-ai-f45530406243?source=rss-c8f6762e0e4b------2)
 - [⏳ Building an Animated Countdown Control in .NET MAUI](https://medium.com/@tsjdevapps/building-an-animated-countdown-control-in-net-maui-0b1faff7ed76?source=rss-c8f6762e0e4b------2)
 - [Getting Started with Model Router in Azure AI Foundry Using C#](https://medium.com/medialesson/getting-started-with-model-router-in-azure-ai-foundry-using-c-d17a10681a3f?source=rss-c8f6762e0e4b------2)
@@ -21,7 +22,6 @@
 - [Using Microsoft.Extensions.AI to Generate Embeddings in .NET](https://medium.com/medialesson/using-microsoft-extensions-ai-to-generate-embeddings-in-net-0e6485180593?source=rss-c8f6762e0e4b------2)
 - [Add Data from Your Website to Your AI Chat Client](https://medium.com/medialesson/add-data-from-your-website-to-your-ai-chat-client-cee94ffcd1f6?source=rss-c8f6762e0e4b------2)
 - [Using Microsoft.Extensions.AI to Build a Simple Chat in .NET](https://medium.com/medialesson/using-microsoft-extensions-ai-to-build-a-simple-chat-in-net-13cb0ddf3157?source=rss-c8f6762e0e4b------2)
-- [Using Structured Outputs to Generate JSON responses with OpenAI](https://medium.com/medialesson/using-structured-outputs-to-generate-json-responses-with-openai-e01f591b740f?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 
