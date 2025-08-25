@@ -26,4 +26,4 @@ jobs:
           feed_list: "https://www.tsjdev-apps.de/feed/"
           comment_tag_name: "WORDPRESS-BLOG-POST-LIST"
           max_post_count: 10
-          user_agent: 'Mozilla/5.0 (compatible; GitHubActionBot/1.0; +https://github.com/tsjdev-apps/tsjdev-apps)'
+          user_agent: 'Mozilla/5.0 (compatible; GitHubAction/1.0; +https://github.com/tsjdev-apps/tsjdev-apps)'
