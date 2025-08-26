@@ -12,6 +12,7 @@
 
 ### Recent blog posts on [Medium.com](https://medium.com/@tsjdevapps) in English 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Exploring GitHub Models with a .NET Console Chat Application](https://medium.com/medialesson/exploring-github-models-with-a-net-console-chat-application-348890adcb6b?source=rss-c8f6762e0e4b------2)
 - [GitHub Actions Locally with act](https://medium.com/medialesson/github-actions-locally-with-act-c6f945309276?source=rss-c8f6762e0e4b------2)
 - [PicCaptionr: Generate Instagram-Ready Captions with AI](https://medium.com/medialesson/piccaptionr-generate-instagram-ready-captions-with-ai-f45530406243?source=rss-c8f6762e0e4b------2)
 - [⏳ Building an Animated Countdown Control in .NET MAUI](https://medium.com/@tsjdevapps/building-an-animated-countdown-control-in-net-maui-0b1faff7ed76?source=rss-c8f6762e0e4b------2)
@@ -21,7 +22,6 @@
 - [GitHub Models: Your Playground for Exploring and Comparing AI Models](https://medium.com/medialesson/github-models-your-playground-for-exploring-and-comparing-ai-models-d40770431b16?source=rss-c8f6762e0e4b------2)
 - [Using Microsoft.Extensions.AI to Generate Embeddings in .NET](https://medium.com/medialesson/using-microsoft-extensions-ai-to-generate-embeddings-in-net-0e6485180593?source=rss-c8f6762e0e4b------2)
 - [Add Data from Your Website to Your AI Chat Client](https://medium.com/medialesson/add-data-from-your-website-to-your-ai-chat-client-cee94ffcd1f6?source=rss-c8f6762e0e4b------2)
-- [Using Microsoft.Extensions.AI to Build a Simple Chat in .NET](https://medium.com/medialesson/using-microsoft-extensions-ai-to-build-a-simple-chat-in-net-13cb0ddf3157?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 
