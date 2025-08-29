@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Prompting für GPT-5 – Techniken und Best Practices](https://www.tsjdev-apps.de/prompting-fur-gpt-5/)
 - [Ollama mit neuer UI – Einfacher Zugriff auf lokale KI-Modelle](https://www.tsjdev-apps.de/ollama-ui-gpt-oss20b/)
 - [PicCaptionr: Erstelle Instagram-taugliche Bildunterschriften mit KI](https://www.tsjdev-apps.de/piccaptionr-ki-bildunterschriften-instagram/)
 - [Cronjobs in Azure Functions: Zeitgesteuerte Aufgaben mit dem TimerTrigger ausführen](https://www.tsjdev-apps.de/cronjobs-in-azure-functions/)
@@ -36,7 +37,6 @@
 - [Beliebige Windows-Version schnell per Docker starten – perfekt für Tests und Entwicklung](https://www.tsjdev-apps.de/windows-per-docker-starten/)
 - [Konsolen-Applikationen mit Spectre.Console und .NET](https://www.tsjdev-apps.de/konsolen-applikationen-mit-spectre-console-und-net/)
 - [Erste Schritte mit dem Model Router in Azure AI Foundry mit C#](https://www.tsjdev-apps.de/erste-schritte-mit-dem-model-router-in-azure-ai-foundry-mit-c/)
-- [So erstellst du deinen eigenen Podcast mit Hilfe von KI](https://www.tsjdev-apps.de/so-erstellst-du-deinen-eigenen-podcast-mit-hilfe-von-ki/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
