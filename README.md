@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Windows Terminal unter Windows 11 mit Oh-My-Posh einrichten](https://www.tsjdev-apps.de/windows-terminal-mit-oh-my-posh-einrichten/)
 - [Prompting für GPT-5 – Techniken und Best Practices](https://www.tsjdev-apps.de/prompting-fur-gpt-5/)
 - [Ollama mit neuer UI – Einfacher Zugriff auf lokale KI-Modelle](https://www.tsjdev-apps.de/ollama-ui-gpt-oss20b/)
 - [PicCaptionr: Erstelle Instagram-taugliche Bildunterschriften mit KI](https://www.tsjdev-apps.de/piccaptionr-ki-bildunterschriften-instagram/)
@@ -36,7 +37,6 @@
 - [GitHub Actions lokal testen mit Act](https://www.tsjdev-apps.de/github-actions-lokal-testen-mit-act/)
 - [Beliebige Windows-Version schnell per Docker starten – perfekt für Tests und Entwicklung](https://www.tsjdev-apps.de/windows-per-docker-starten/)
 - [Konsolen-Applikationen mit Spectre.Console und .NET](https://www.tsjdev-apps.de/konsolen-applikationen-mit-spectre-console-und-net/)
-- [Erste Schritte mit dem Model Router in Azure AI Foundry mit C#](https://www.tsjdev-apps.de/erste-schritte-mit-dem-model-router-in-azure-ai-foundry-mit-c/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
