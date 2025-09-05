@@ -1,14 +1,17 @@
 name: Latest blog post - Wordpress
 
 on:
-  # run automatically every 24 hours
+  # Run every Thursday at 06:00 Germany time:
+  # CEST (March–October) = 04:00 UTC
+  # CET (November–February) = 05:00 UTC
   schedule:
-    - cron: "0 6 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 4 * 3-10 4"   # Thursday 04:00 UTC (06:00 CEST, Mar–Oct)
+    - cron: "0 5 * 11-2 4"   # Thursday 05:00 UTC (06:00 CET, Nov–Feb)
+
+  # Allow manual execution at any time
   workflow_dispatch:
-  
-# sets the permission to write to the repository
+
+# Grants permission to write to the repository
 permissions:
   contents: write
 
@@ -19,11 +22,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        
+
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.tsjdev-apps.de/feed/"
           comment_tag_name: "WORDPRESS-BLOG-POST-LIST"
           max_post_count: 10
-          user_agent: 'Mozilla/5.0 (compatible; GitHubAction/1.0; +https://github.com/tsjdev-apps/tsjdev-apps)'
+          # Use a real browser User-Agent (does not look like a bot)
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
