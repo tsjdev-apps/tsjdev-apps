@@ -2,11 +2,8 @@ name: Latest blog post - Wordpress
 
 on:
   # Run every Thursday at 06:00 Germany time:
-  # CEST (March–October) = 04:00 UTC
-  # CET (November–February) = 05:00 UTC
   schedule:
-    - cron: "0 4 * 3-10 4"   # Thursday 04:00 UTC (06:00 CEST, Mar–Oct)
-    - cron: "0 5 * 11-2 4"   # Thursday 05:00 UTC (06:00 CET, Nov–Feb)
+    - cron: "0 5 * * 4"
 
   # Allow manual execution at any time
   workflow_dispatch:
