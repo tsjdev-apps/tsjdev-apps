@@ -27,16 +27,16 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Visual Studio 2026: Die neue Ära der IDE](https://www.tsjdev-apps.de/visual-studio-2026-die-neue-aera-der-ide/)
+- [Deep-Links in Visual Studio mit vs-open.link](https://www.tsjdev-apps.de/deep-links-in-visual-studio-mit-vs-open-link/)
+- [Ollama bringt Cloud-Modelle](https://www.tsjdev-apps.de/ollama-bringt-cloud-modelle/)
+- [GitHub Models mit einer .NET-Konsolen-Chat-Anwendung erkunden](https://www.tsjdev-apps.de/github-models-mit-einer-net-konsolen-chat-anwendung-erkunden/)
+- [Warum halluzinieren Sprachmodelle?](https://www.tsjdev-apps.de/warum-halluzinieren-sprachmodelle/)
 - [Windows Terminal unter Windows 11 mit Oh-My-Posh einrichten](https://www.tsjdev-apps.de/windows-terminal-mit-oh-my-posh-einrichten/)
 - [Prompting für GPT-5 – Techniken und Best Practices](https://www.tsjdev-apps.de/prompting-fur-gpt-5/)
 - [Ollama mit neuer UI – Einfacher Zugriff auf lokale KI-Modelle](https://www.tsjdev-apps.de/ollama-ui-gpt-oss20b/)
 - [PicCaptionr: Erstelle Instagram-taugliche Bildunterschriften mit KI](https://www.tsjdev-apps.de/piccaptionr-ki-bildunterschriften-instagram/)
 - [Cronjobs in Azure Functions: Zeitgesteuerte Aufgaben mit dem TimerTrigger ausführen](https://www.tsjdev-apps.de/cronjobs-in-azure-functions/)
-- [Meine .NET MAUI Controls Library – jetzt auf NuGet verfügbar!](https://www.tsjdev-apps.de/dotnet-maui-controls-library-nuget/)
-- [Fragen beantworten mit PowerShell und OpenAI](https://www.tsjdev-apps.de/powershell-openai-answer-funktion/)
-- [GitHub Actions lokal testen mit Act](https://www.tsjdev-apps.de/github-actions-lokal-testen-mit-act/)
-- [Beliebige Windows-Version schnell per Docker starten – perfekt für Tests und Entwicklung](https://www.tsjdev-apps.de/windows-per-docker-starten/)
-- [Konsolen-Applikationen mit Spectre.Console und .NET](https://www.tsjdev-apps.de/konsolen-applikationen-mit-spectre-console-und-net/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
