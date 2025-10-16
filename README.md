@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Sicherheitslücken in verwendenten NuGet-Paketen finden](https://www.tsjdev-apps.de/sicherheitsluecken-in-verwendenten-nuget-paketen-finden/)
 - [Visual Studio 2026: Die neue Ära der IDE](https://www.tsjdev-apps.de/visual-studio-2026-die-neue-aera-der-ide/)
 - [Deep-Links in Visual Studio mit vs-open.link](https://www.tsjdev-apps.de/deep-links-in-visual-studio-mit-vs-open-link/)
 - [Ollama bringt Cloud-Modelle](https://www.tsjdev-apps.de/ollama-bringt-cloud-modelle/)
@@ -36,7 +37,6 @@
 - [Prompting für GPT-5 – Techniken und Best Practices](https://www.tsjdev-apps.de/prompting-fur-gpt-5/)
 - [Ollama mit neuer UI – Einfacher Zugriff auf lokale KI-Modelle](https://www.tsjdev-apps.de/ollama-ui-gpt-oss20b/)
 - [PicCaptionr: Erstelle Instagram-taugliche Bildunterschriften mit KI](https://www.tsjdev-apps.de/piccaptionr-ki-bildunterschriften-instagram/)
-- [Cronjobs in Azure Functions: Zeitgesteuerte Aufgaben mit dem TimerTrigger ausführen](https://www.tsjdev-apps.de/cronjobs-in-azure-functions/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
