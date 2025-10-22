@@ -12,6 +12,7 @@
 
 ### Recent blog posts on [Medium.com](https://medium.com/@tsjdevapps) in English 📝
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Create AI videos with Sora-2 using .NET](https://medium.com/medialesson/create-ai-videos-with-sora-2-using-net-7fe49b23a02d?source=rss-c8f6762e0e4b------2)
 - [Exploring GitHub Models with a .NET Console Chat Application](https://medium.com/medialesson/exploring-github-models-with-a-net-console-chat-application-348890adcb6b?source=rss-c8f6762e0e4b------2)
 - [GitHub Actions Locally with act](https://medium.com/medialesson/github-actions-locally-with-act-c6f945309276?source=rss-c8f6762e0e4b------2)
 - [PicCaptionr: Generate Instagram-Ready Captions with AI](https://medium.com/medialesson/piccaptionr-generate-instagram-ready-captions-with-ai-f45530406243?source=rss-c8f6762e0e4b------2)
@@ -21,7 +22,6 @@
 - [Use the GPT-4o Realtime model to have a conversation with Santa Claus](https://medium.com/medialesson/use-the-gpt-4o-realtime-model-to-have-a-conversation-with-santa-claus-08dd3ac4d97b?source=rss-c8f6762e0e4b------2)
 - [GitHub Models: Your Playground for Exploring and Comparing AI Models](https://medium.com/medialesson/github-models-your-playground-for-exploring-and-comparing-ai-models-d40770431b16?source=rss-c8f6762e0e4b------2)
 - [Using Microsoft.Extensions.AI to Generate Embeddings in .NET](https://medium.com/medialesson/using-microsoft-extensions-ai-to-generate-embeddings-in-net-0e6485180593?source=rss-c8f6762e0e4b------2)
-- [Add Data from Your Website to Your AI Chat Client](https://medium.com/medialesson/add-data-from-your-website-to-your-ai-chat-client-cee94ffcd1f6?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 
