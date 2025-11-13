@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Meine GitHub-Projekte – Innovation mit .NET, KI und Kreativität](https://www.tsjdev-apps.de/meine-github-projekte-innovation-mit-net-ki-und-kreativitaet/)
 - [Event-Tipp: .NET Conf 2025](https://www.tsjdev-apps.de/event-tipp-net-conf-2025/)
 - [Meine englischsprachigen Beiträge auf Medium](https://www.tsjdev-apps.de/meine-englischsprachigen-beitraege-auf-medium/)
 - [KI-Videos mit Sora-2 und .NET erstellen](https://www.tsjdev-apps.de/ki-videos-mit-sora-2-und-net-erstellen/)
@@ -36,7 +37,6 @@
 - [Ollama bringt Cloud-Modelle](https://www.tsjdev-apps.de/ollama-bringt-cloud-modelle/)
 - [GitHub Models mit einer .NET-Konsolen-Chat-Anwendung erkunden](https://www.tsjdev-apps.de/github-models-mit-einer-net-konsolen-chat-anwendung-erkunden/)
 - [Warum halluzinieren Sprachmodelle?](https://www.tsjdev-apps.de/warum-halluzinieren-sprachmodelle/)
-- [Windows Terminal unter Windows 11 mit Oh-My-Posh einrichten](https://www.tsjdev-apps.de/windows-terminal-mit-oh-my-posh-einrichten/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
