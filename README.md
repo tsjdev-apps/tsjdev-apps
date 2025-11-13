@@ -95,15 +95,6 @@ Whatever you decide, be it reading and sharing my blog posts, using my NuGet pac
 
 ![GitHub Snake animation](https://raw.githubusercontent.com/tsjdev-apps/tsjdev-apps/snake-output/github-contribution-grid-snake.svg)
 
-#### 🗨️ Most Used Langugages
-
-![Most Used Languages](https://api.githubtrends.io/user/svg/tsjdev-apps/langs?time_range=one_year&theme=bright_lights)
-
-#### 💾 Most Contributed Repositories
-
-![Most Contributed Repositories](https://api.githubtrends.io/user/svg/tsjdev-apps/repos?time_range=one_year&theme=bright_lights)
-
-
 #### 🔥 Streak Stats
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=tsjdev-apps&theme=monokai-metallian)
