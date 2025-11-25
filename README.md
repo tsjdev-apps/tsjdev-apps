@@ -27,6 +27,7 @@
 
 ### Recent blog posts on my personal blog [tsjdev-apps.de](https://www.tsjdev-apps.de) in German 📝
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Flags Quiz – Ein interaktives Flaggen-Quiz mit HTML, JavaScript und Bulma](https://www.tsjdev-apps.de/flags-quiz-ein-interaktives-flaggen-quiz-mit-html-javascript-und-bulma/)
 - [Meine GitHub-Projekte – Innovation mit .NET, KI und Kreativität](https://www.tsjdev-apps.de/meine-github-projekte-innovation-mit-net-ki-und-kreativitaet/)
 - [Event-Tipp: .NET Conf 2025](https://www.tsjdev-apps.de/event-tipp-net-conf-2025/)
 - [Meine englischsprachigen Beiträge auf Medium](https://www.tsjdev-apps.de/meine-englischsprachigen-beitraege-auf-medium/)
@@ -36,7 +37,6 @@
 - [Deep-Links in Visual Studio mit vs-open.link](https://www.tsjdev-apps.de/deep-links-in-visual-studio-mit-vs-open-link/)
 - [Ollama bringt Cloud-Modelle](https://www.tsjdev-apps.de/ollama-bringt-cloud-modelle/)
 - [GitHub Models mit einer .NET-Konsolen-Chat-Anwendung erkunden](https://www.tsjdev-apps.de/github-models-mit-einer-net-konsolen-chat-anwendung-erkunden/)
-- [Warum halluzinieren Sprachmodelle?](https://www.tsjdev-apps.de/warum-halluzinieren-sprachmodelle/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 
