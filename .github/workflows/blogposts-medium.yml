@@ -25,4 +25,4 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@tsjdevapps"
           comment_tag_name: "MEDIUM-BLOG-POST-LIST"
-          max_post_count: 10
+          max_post_count: 5
