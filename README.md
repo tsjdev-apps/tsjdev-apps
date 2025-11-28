@@ -30,11 +30,6 @@ I love creating **open-source packages**, writing **technical articles**, and ex
 - [GitHub Actions Locally with act](https://medium.com/medialesson/github-actions-locally-with-act-c6f945309276?source=rss-c8f6762e0e4b------2)
 - [PicCaptionr: Generate Instagram-Ready Captions with AI](https://medium.com/medialesson/piccaptionr-generate-instagram-ready-captions-with-ai-f45530406243?source=rss-c8f6762e0e4b------2)
 - [⏳ Building an Animated Countdown Control in .NET MAUI](https://medium.com/@tsjdevapps/building-an-animated-countdown-control-in-net-maui-0b1faff7ed76?source=rss-c8f6762e0e4b------2)
-- [Getting Started with Model Router in Azure AI Foundry Using C#](https://medium.com/medialesson/getting-started-with-model-router-in-azure-ai-foundry-using-c-d17a10681a3f?source=rss-c8f6762e0e4b------2)
-- [How to Create Your Own Podcast with the Help of AI](https://medium.com/medialesson/how-to-create-your-own-podcast-with-the-help-of-ai-0dfe3c1d2a4d?source=rss-c8f6762e0e4b------2)
-- [Use the GPT-4o Realtime model to have a conversation with Santa Claus](https://medium.com/medialesson/use-the-gpt-4o-realtime-model-to-have-a-conversation-with-santa-claus-08dd3ac4d97b?source=rss-c8f6762e0e4b------2)
-- [GitHub Models: Your Playground for Exploring and Comparing AI Models](https://medium.com/medialesson/github-models-your-playground-for-exploring-and-comparing-ai-models-d40770431b16?source=rss-c8f6762e0e4b------2)
-- [Using Microsoft.Extensions.AI to Generate Embeddings in .NET](https://medium.com/medialesson/using-microsoft-extensions-ai-to-generate-embeddings-in-net-0e6485180593?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 ## 📝 Neueste Blog-Beiträge (Deutsch)
