@@ -25,11 +25,11 @@ I love creating **open-source packages**, writing **technical articles**, and ex
 ## 📝 Latest Medium Posts (English)
 
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Compare OpenAI Models Side-by-Side with Blazor Server](https://medium.com/medialesson/compare-openai-models-side-by-side-with-blazor-server-6b83ad8a9823?source=rss-c8f6762e0e4b------2)
 - [Create AI videos with Sora-2 using .NET](https://medium.com/medialesson/create-ai-videos-with-sora-2-using-net-7fe49b23a02d?source=rss-c8f6762e0e4b------2)
 - [Exploring GitHub Models with a .NET Console Chat Application](https://medium.com/medialesson/exploring-github-models-with-a-net-console-chat-application-348890adcb6b?source=rss-c8f6762e0e4b------2)
 - [GitHub Actions Locally with act](https://medium.com/medialesson/github-actions-locally-with-act-c6f945309276?source=rss-c8f6762e0e4b------2)
 - [PicCaptionr: Generate Instagram-Ready Captions with AI](https://medium.com/medialesson/piccaptionr-generate-instagram-ready-captions-with-ai-f45530406243?source=rss-c8f6762e0e4b------2)
-- [⏳ Building an Animated Countdown Control in .NET MAUI](https://medium.com/@tsjdevapps/building-an-animated-countdown-control-in-net-maui-0b1faff7ed76?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 ## 📝 Neueste Blog-Beiträge (Deutsch)
