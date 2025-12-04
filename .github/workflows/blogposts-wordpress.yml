@@ -20,6 +20,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Generate random User-Agent
+        run: |
+          AGENTS=(
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
+            "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/126.0"
+            "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+          )
+          RANDOM_UA=${AGENTS[$RANDOM % ${#AGENTS[@]}]}
+          echo "USER_AGENT=$RANDOM_UA" >> $GITHUB_ENV
+
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -27,4 +38,4 @@ jobs:
           comment_tag_name: "WORDPRESS-BLOG-POST-LIST"
           max_post_count: 5
           # Use a real browser User-Agent (does not look like a bot)
-          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+          user_agent: ${{ env.USER_AGENT }}
