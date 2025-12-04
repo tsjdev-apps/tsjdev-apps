@@ -35,11 +35,11 @@ I love creating **open-source packages**, writing **technical articles**, and ex
 ## 📝 Neueste Blog-Beiträge (Deutsch)
 
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Desktop-Apps entwickeln – schnell, modern und plattformübergreifend mit Avalonia](https://www.tsjdev-apps.de/desktop-apps-entwickeln-schnell-modern-und-plattformuebergreifend-mit-avalonia/)
+- [PicCaptionr erhält ein großes Update: Jetzt mit .NET 10 &amp; den neuesten OpenAI-Modellen](https://www.tsjdev-apps.de/piccaptionr-net10-openai-update/)
 - [Flags Quiz – Ein interaktives Flaggen-Quiz mit HTML, JavaScript und Bulma](https://www.tsjdev-apps.de/flags-quiz-ein-interaktives-flaggen-quiz-mit-html-javascript-und-bulma/)
 - [Meine GitHub-Projekte – Innovation mit .NET, KI und Kreativität](https://www.tsjdev-apps.de/meine-github-projekte-innovation-mit-net-ki-und-kreativitaet/)
 - [Event-Tipp: .NET Conf 2025](https://www.tsjdev-apps.de/event-tipp-net-conf-2025/)
-- [Meine englischsprachigen Beiträge auf Medium](https://www.tsjdev-apps.de/meine-englischsprachigen-beitraege-auf-medium/)
-- [KI-Videos mit Sora-2 und .NET erstellen](https://www.tsjdev-apps.de/ki-videos-mit-sora-2-und-net-erstellen/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 ## 📦 My NuGet Packages (A–Z)
