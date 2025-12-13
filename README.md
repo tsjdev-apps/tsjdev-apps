@@ -25,11 +25,11 @@ I love creating **open-source packages**, writing **technical articles**, and ex
 ## 📝 Latest Medium Posts (English)
 
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Building a Modern, Cross-Platform Weather App with Avalonia UI](https://medium.com/medialesson/building-a-modern-cross-platform-weather-app-with-avalonia-ui-b580328d1cfb?source=rss-c8f6762e0e4b------2)
 - [Boost Your .NET Workflow with the New TOON File Support in Visual Studio](https://medium.com/medialesson/boost-your-net-workflow-with-the-new-toon-file-support-in-visual-studio-c058068eb0bd?source=rss-c8f6762e0e4b------2)
 - [Compare OpenAI Models Side-by-Side with Blazor Server](https://medium.com/medialesson/compare-openai-models-side-by-side-with-blazor-server-6b83ad8a9823?source=rss-c8f6762e0e4b------2)
 - [Create AI videos with Sora-2 using .NET](https://medium.com/medialesson/create-ai-videos-with-sora-2-using-net-7fe49b23a02d?source=rss-c8f6762e0e4b------2)
 - [Exploring GitHub Models with a .NET Console Chat Application](https://medium.com/medialesson/exploring-github-models-with-a-net-console-chat-application-348890adcb6b?source=rss-c8f6762e0e4b------2)
-- [GitHub Actions Locally with act](https://medium.com/medialesson/github-actions-locally-with-act-c6f945309276?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 ## 📝 Neueste Blog-Beiträge (Deutsch)
