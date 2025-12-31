@@ -35,11 +35,11 @@ I love creating **open-source packages**, writing **technical articles**, and ex
 ## 📝 Neueste Blog-Beiträge (Deutsch)
 
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Rückblick auf 2025 und Ausblick auf 2026](https://www.tsjdev-apps.de/rueckblick-auf-2025-und-ausblick-auf-2026/)
+- [DotNetEnv – Die Konfigurations-Superkraft, die du noch nicht kanntest](https://www.tsjdev-apps.de/dotnetenv-die-konfigurations-superkraft-die-du-noch-nicht-kanntest/)
 - [Moderne Cross-Plattform-Wetter-App mit Avalonia UI](https://www.tsjdev-apps.de/moderne-cross-plattform-wetter-app-mit-avalonia-ui/)
 - [Vergleiche OpenAI-Modelle Side-by-Side mit Blazor Server](https://www.tsjdev-apps.de/vergleiche-openai-modelle-side-by-side-mit-blazor-server/)
 - [Desktop-Apps entwickeln – schnell, modern und plattformübergreifend mit Avalonia](https://www.tsjdev-apps.de/desktop-apps-entwickeln-schnell-modern-und-plattformuebergreifend-mit-avalonia/)
-- [PicCaptionr erhält ein großes Update: Jetzt mit .NET 10 &amp; den neuesten OpenAI-Modellen](https://www.tsjdev-apps.de/piccaptionr-net10-openai-update/)
-- [Flags Quiz – Ein interaktives Flaggen-Quiz mit HTML, JavaScript und Bulma](https://www.tsjdev-apps.de/flags-quiz-ein-interaktives-flaggen-quiz-mit-html-javascript-und-bulma/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 ## 📦 My NuGet Packages (A–Z)
