@@ -25,11 +25,11 @@ I love creating **open-source packages**, writing **technical articles**, and ex
 ## 📝 Latest Medium Posts (English)
 
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [From Commit to MSIX: Automating .NET MAUI Windows Builds with GitHub Actions](https://medium.com/medialesson/from-commit-to-msix-automating-net-maui-windows-builds-with-github-actions-9e1709a7e5dd?source=rss-c8f6762e0e4b------2)
 - [From Commit to IPA: Automating .NET MAUI iOS Builds with GitHub Actions](https://medium.com/medialesson/from-commit-to-ipa-automating-net-maui-ios-builds-with-github-actions-fd8d9d47240b?source=rss-c8f6762e0e4b------2)
 - [Before The IPA: Preparing iOS Signing](https://medium.com/medialesson/before-the-ipa-preparing-ios-signing-6e7861fcd84f?source=rss-c8f6762e0e4b------2)
 - [From Commit to AAB/APK: Automating .NET MAUI Android Builds with GitHub Actions](https://medium.com/medialesson/from-commit-to-aab-apk-automating-net-maui-android-builds-with-github-actions-bc30468b2d08?source=rss-c8f6762e0e4b------2)
 - [Building a Multi-Model Image Generation Console App with Azure OpenAI and OpenAI](https://medium.com/medialesson/building-a-multi-model-image-generation-console-app-with-azure-openai-and-openai-fa5b9b790e7e?source=rss-c8f6762e0e4b------2)
-- [Building a Modern, Cross-Platform Weather App with Avalonia UI](https://medium.com/medialesson/building-a-modern-cross-platform-weather-app-with-avalonia-ui-b580328d1cfb?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 ## 📝 Neueste Blog-Beiträge (Deutsch)
