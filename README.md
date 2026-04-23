@@ -35,11 +35,11 @@ I love creating **open-source packages**, writing **technical articles**, and ex
 ## 📝 Neueste Blog-Beiträge (Deutsch)
 
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Multi-Agent-Orchestrierung mit dem Microsoft Agent Framework](https://www.tsjdev-apps.de/multi-agent-orchestrierung-mit-dem-microsoft-agent-framework/)
+- [Rückblick: Global Azure in München 2026](https://www.tsjdev-apps.de/rueckblick-global-azure-in-muenchen/)
 - [Wie habe ich meine Webseite von WordPress nach Hugo migriert?](https://www.tsjdev-apps.de/wie-habe-ich-meine-webseite-von-wordpress-nach-hugo-migriert/)
 - [I am Back! Meine neue Webseite ist nun online](https://www.tsjdev-apps.de/i-am-back-meine-neue-webseite-ist-nun-online/)
 - [Kurze Pause auf dem Blog – ein technischer Neustart steht an](https://www.tsjdev-apps.de/kurze-pause-auf-dem-blog-ein-technischer-neustart-steht-an/)
-- [Rückblick auf 2025 und Ausblick auf 2026](https://www.tsjdev-apps.de/rueckblick-auf-2025-und-ausblick-auf-2026/)
-- [DotNetEnv – Die Konfigurations-Superkraft, die du noch nicht kanntest](https://www.tsjdev-apps.de/dotnetenv-die-konfigurations-superkraft-die-du-noch-nicht-kanntest/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 ## 📦 My NuGet Packages (A–Z)
