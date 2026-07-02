@@ -35,11 +35,11 @@ I love creating **open-source packages**, writing **technical articles**, and ex
 ## 📝 Neueste Blog-Beiträge (Deutsch)
 
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Image Sortr: Bilder automatisch nach Aufnahmedatum sortieren](https://www.tsjdev-apps.de/image-sortr-bilder-nach-aufnahmedatum-sortieren/)
 - [Tiny Tool Town: Kleine Tools, große Freude](https://www.tsjdev-apps.de/tiny-tool-town-kleine-tools-grosse-freude/)
 - [Build 2026 und WWDC26: KI verändert die Softwareentwicklung](https://www.tsjdev-apps.de/microsoft-build-2026-und-wwdc26-die-zukunft-der-ki-fuer-entwickler/)
 - [Drei kleine Avalonia-Tools für Bilder im Alltag](https://www.tsjdev-apps.de/drei-kleine-avalonia-tools-fuer-die-bildverarbeitung-im-alltag/)
 - [Multi-Agent-Orchestrierung mit dem Microsoft Agent Framework](https://www.tsjdev-apps.de/multi-agent-orchestrierung-mit-dem-microsoft-agent-framework/)
-- [Rückblick: Global Azure in München 2026](https://www.tsjdev-apps.de/rueckblick-global-azure-in-muenchen/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 ## 📦 My NuGet Packages (A–Z)
