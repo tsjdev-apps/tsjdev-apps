@@ -25,11 +25,11 @@ I love creating **open-source packages**, writing **technical articles**, and ex
 ## 📝 Latest Medium Posts (English)
 
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Connecting .NET MAUI and ASP.NET Core with Aspire](https://medium.com/medialesson/connecting-net-maui-and-asp-net-core-with-aspire-89c82577a19d?source=rss-c8f6762e0e4b------2)
 - [Building a Seven-Segment Display Control with .NET MAUI and SkiaSharp](https://medium.com/@tsjdevapps/building-a-seven-segment-display-control-with-net-maui-and-skiasharp-739adf1ca8d9?source=rss-c8f6762e0e4b------2)
 - [From Commit to MSIX: Automating .NET MAUI Windows Builds with GitHub Actions](https://medium.com/medialesson/from-commit-to-msix-automating-net-maui-windows-builds-with-github-actions-9e1709a7e5dd?source=rss-c8f6762e0e4b------2)
 - [From Commit to IPA: Automating .NET MAUI iOS Builds with GitHub Actions](https://medium.com/medialesson/from-commit-to-ipa-automating-net-maui-ios-builds-with-github-actions-fd8d9d47240b?source=rss-c8f6762e0e4b------2)
 - [Before The IPA: Preparing iOS Signing](https://medium.com/medialesson/before-the-ipa-preparing-ios-signing-6e7861fcd84f?source=rss-c8f6762e0e4b------2)
-- [From Commit to AAB/APK: Automating .NET MAUI Android Builds with GitHub Actions](https://medium.com/medialesson/from-commit-to-aab-apk-automating-net-maui-android-builds-with-github-actions-bc30468b2d08?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 ## 📝 Neueste Blog-Beiträge (Deutsch)
