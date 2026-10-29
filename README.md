@@ -35,11 +35,11 @@ I love creating **open-source packages**, writing **technical articles**, and ex
 ## 📝 Neueste Blog-Beiträge (Deutsch)
 
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [Zwei Tage Köln: Microsoft Frontier Tour und .NET MAUI Day](https://www.tsjdev-apps.de/microsoft-frontier-tour-dotnet-maui-day/)
 - [Vor der IPA: iOS Signing für .NET MAUI vorbereiten](https://www.tsjdev-apps.de/vor-der-ipa-ios-signing/)
 - [Von Commit zu AAB/APK: .NET MAUI Android Builds mit GitHub Actions automatisieren](https://www.tsjdev-apps.de/von-commit-zu-aab-apk/)
 - [Erstellen eines Seven Segment Display Controls mit .NET MAUI und SkiaSharp](https://www.tsjdev-apps.de/erstellen-eines-seven-segment-display-controls-mit-dotnet-maui-und-skiasharp/)
 - [Image Sortr: Bilder automatisch nach Aufnahmedatum sortieren](https://www.tsjdev-apps.de/image-sortr-bilder-nach-aufnahmedatum-sortieren/)
-- [Tiny Tool Town: Kleine Tools, große Freude](https://www.tsjdev-apps.de/tiny-tool-town-kleine-tools-grosse-freude/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 ## 📦 My NuGet Packages (A–Z)
