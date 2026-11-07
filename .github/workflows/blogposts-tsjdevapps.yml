@@ -1,0 +1,115 @@
+
+name: Latest blog posts - TSJDEV Apps
+
+on:
+  schedule:
+    - cron: "0 6 * * 4"
+      timezone: "Europe/Berlin"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Download RSS feed
+        run: |
+          curl --fail --silent --show-error \
+            --location --retry 3 \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/127.0.0.0 Safari/537.36" \
+            -H "Accept: application/rss+xml" \
+            -o "$RUNNER_TEMP/feed.xml" \
+            "https://www.tsjdev-apps.de/feed/"
+
+      - name: Update README
+        env:
+          FEED_FILE: ${{ runner.temp }}/feed.xml
+        run: |
+          python3 - <<'PY'
+          import os
+          import re
+          import html
+          import email.utils
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+
+          # Parse RSS feed
+          root = ET.parse(os.environ["FEED_FILE"]).getroot()
+          items = []
+
+          for item in root.findall("./channel/item"):
+              title = html.unescape(item.findtext("title") or "")
+              title = " ".join(title.split())
+              link = (item.findtext("link") or "").strip()
+              published = item.findtext("pubDate") or ""
+
+              try:
+                  date = email.utils.parsedate_to_datetime(
+                      published
+                  ).timestamp()
+              except (ValueError, TypeError, OverflowError):
+                  date = 0
+
+              if title and link:
+                  title = title.replace("\\", "\\\\")
+                  title = title.replace("[", "\\[")
+                  title = title.replace("]", "\\]")
+                  items.append((date, title, link))
+
+          if not items:
+              raise RuntimeError("No RSS posts found")
+
+          # Five newest posts
+          items.sort(reverse=True)
+          posts = "\n".join(
+              f"- [{title}]({link})"
+              for _, title, link in items[:5]
+          )
+
+          # Replace README section
+          readme = Path("README.md")
+          content = readme.read_text(encoding="utf-8")
+
+          pattern = re.compile(
+              r"(<!-- WORDPRESS-BLOG-POST-LIST:START -->)"
+              r".*?"
+              r"(<!-- WORDPRESS-BLOG-POST-LIST:END -->)",
+              re.DOTALL,
+          )
+
+          if not pattern.search(content):
+              raise RuntimeError("README markers not found")
+
+          updated = pattern.sub(
+              lambda m: f"{m.group(1)}\n{posts}\n{m.group(2)}",
+              content,
+              count=1,
+          )
+
+          if updated != content:
+              readme.write_text(updated, encoding="utf-8")
+              print("README updated")
+          else:
+              print("No changes required")
+          PY
+
+      - name: Commit README changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "Update latest blog posts"
+          git push
