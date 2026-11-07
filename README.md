@@ -25,6 +25,8 @@ I love creating **open-source packages**, writing **technical articles**, and ex
 ## 🎙️ The TSJDEV Apps Podcast (English)
 
 <!-- PODCAST-LIST:START -->
+- [E002: Stop Hardcoding API URLs!](https://www.tsjdev-apps-podcast.com/e002/)
+- [E001: Can .NET MAUI Work with Aspire?](https://www.tsjdev-apps-podcast.com/e001/)
 <!-- PODCAST-LIST:END -->
 
 ## 📝 Latest Medium Posts (English)
