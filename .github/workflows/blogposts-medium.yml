@@ -1,28 +1,146 @@
-name: Latest blog post - Medium
+
+name: Latest blog posts - Medium
 
 on:
-  # run automatically every 24 hours
+  # Run daily at 06:30 Germany time
   schedule:
-    - cron: "0 6 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "30 6 * * *"
+      timezone: "Europe/Berlin"
+
+  # Allow manual execution
   workflow_dispatch:
-  
-# sets the permission to write to the repository
+
 permissions:
   contents: write
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README with latest Medium posts
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-        
-      - name: Pull in posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: actions/checkout@v7
         with:
-          feed_list: "https://medium.com/feed/@tsjdevapps"
-          comment_tag_name: "MEDIUM-BLOG-POST-LIST"
-          max_post_count: 5
+          fetch-depth: 0
+
+      - name: Download Medium RSS feed
+        run: |
+          curl --fail --silent --show-error \
+            --location \
+            --retry 3 \
+            --max-time 45 \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/127.0.0.0 Safari/537.36" \
+            -H "Accept: application/rss+xml, application/xml, text/xml" \
+            -o "$RUNNER_TEMP/medium-feed.xml" \
+            "https://medium.com/feed/@tsjdevapps"
+
+      - name: Update README
+        env:
+          FEED_FILE: ${{ runner.temp }}/medium-feed.xml
+        run: |
+          python3 - <<'PY'
+          import os
+          import re
+          import html
+          import email.utils
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+
+          # Parse Medium RSS feed
+          root = ET.parse(os.environ["FEED_FILE"]).getroot()
+          items = []
+
+          for item in root.findall("./channel/item"):
+              title = html.unescape(
+                  item.findtext("title") or ""
+              )
+              title = " ".join(title.split())
+
+              link = (
+                  item.findtext("link") or ""
+              ).strip()
+
+              published = item.findtext("pubDate") or ""
+
+              try:
+                  date = email.utils.parsedate_to_datetime(
+                      published
+                  ).timestamp()
+              except (ValueError, TypeError, OverflowError):
+                  date = 0
+
+              if title and link:
+                  # Escape Markdown characters
+                  title = title.replace("\\", "\\\\")
+                  title = title.replace("[", "\\[")
+                  title = title.replace("]", "\\]")
+
+                  items.append((date, title, link))
+
+          if not items:
+              raise RuntimeError("No Medium posts found")
+
+          # Sort by publication date
+          items.sort(key=lambda x: x[0], reverse=True)
+
+          # Generate Markdown for five newest posts
+          posts = "\n".join(
+              f"- [{title}]({link})"
+              for _, title, link in items[:5]
+          )
+
+          # Locate README section
+          readme = Path("README.md")
+          content = readme.read_text(encoding="utf-8")
+
+          start = "<!-- MEDIUM-BLOG-POST-LIST:START -->"
+          end = "<!-- MEDIUM-BLOG-POST-LIST:END -->"
+
+          pattern = re.compile(
+              f"({re.escape(start)}).*?({re.escape(end)})",
+              re.DOTALL,
+          )
+
+          # Replace only the Medium section
+          updated, count = pattern.subn(
+              lambda m: (
+                  f"{m.group(1)}\n{posts}\n{m.group(2)}"
+              ),
+              content,
+          )
+
+          if count != 1:
+              raise RuntimeError(
+                  "Expected exactly one Medium README section"
+              )
+
+          if updated != content:
+              readme.write_text(
+                  updated,
+                  encoding="utf-8",
+              )
+              print("README updated")
+          else:
+              print("No changes required")
+
+          print(f"Found {len(items)} Medium posts")
+          PY
+
+      - name: Commit README changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "Update latest Medium posts"
+
+          # Integrate changes made by other workflows
+          git pull --rebase origin "$GITHUB_REF_NAME"
+
+          git push origin "HEAD:$GITHUB_REF_NAME"
