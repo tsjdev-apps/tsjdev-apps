@@ -22,6 +22,11 @@ I love creating **open-source packages**, writing **technical articles**, and ex
 - ▶️ YouTube: [youtube.com/@tsjdevapps](https://youtube.com/tsjdevapps)
 - 📧 Email: [apps@tsjdev-apps.de](mailto:apps@tsjdev-apps.de  )
 
+## 🎙️ The TSJDEV Apps Podcast (English)
+
+<!-- PODCAST-LIST:START -->
+<!-- PODCAST-LIST:END -->
+
 ## 📝 Latest Medium Posts (English)
 
 <!-- MEDIUM-BLOG-POST-LIST:START -->
