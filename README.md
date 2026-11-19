@@ -25,11 +25,11 @@ I love creating **open-source packages**, writing **technical articles**, and ex
 ## 🎙️ The TSJDEV Apps Podcast (English)
 
 <!-- PODCAST-LIST:START -->
+- [E006: Automate Android Builds with GitHub Actions](https://www.tsjdev-apps-podcast.com/e006/)
 - [E005: Avalonia UI: One App, Multiple Platforms](https://www.tsjdev-apps-podcast.com/e005/)
 - [E004: Share Your MAUI Controls with NuGet](https://www.tsjdev-apps-podcast.com/e004/)
 - [E003: Build Custom MAUI Controls with SkiaSharp](https://www.tsjdev-apps-podcast.com/e003/)
 - [E002: Stop Hardcoding API URLs!](https://www.tsjdev-apps-podcast.com/e002/)
-- [E001: Can .NET MAUI Work with Aspire?](https://www.tsjdev-apps-podcast.com/e001/)
 <!-- PODCAST-LIST:END -->
 
 ## 📝 Latest Medium Posts (English)
