@@ -45,11 +45,11 @@ I love creating **open-source packages**, writing **technical articles**, and ex
 ## 📝 Neueste Blog-Beiträge (Deutsch)
 
 <!-- WORDPRESS-BLOG-POST-LIST:START -->
+- [.NET MAUI und ASP.NET Core mit Aspire verbinden](https://www.tsjdev-apps.de/maui-und-aspire/)
 - [Von Commit zu MSIX: .NET MAUI Windows Builds mit GitHub Actions automatisieren](https://www.tsjdev-apps.de/von-commit-zu-msix/)
 - [Von Commit zu IPA: .NET MAUI iOS Builds mit GitHub Actions automatisieren](https://www.tsjdev-apps.de/von-commit-zu-ipa/)
 - [Zwei Tage Köln: Microsoft Frontier Tour und .NET MAUI Day](https://www.tsjdev-apps.de/microsoft-frontier-tour-dotnet-maui-day/)
 - [Vor der IPA: iOS Signing für .NET MAUI vorbereiten](https://www.tsjdev-apps.de/vor-der-ipa-ios-signing/)
-- [Von Commit zu AAB/APK: .NET MAUI Android Builds mit GitHub Actions automatisieren](https://www.tsjdev-apps.de/von-commit-zu-aab-apk/)
 <!-- WORDPRESS-BLOG-POST-LIST:END -->
 
 ## 📦 My NuGet Packages (A–Z)
