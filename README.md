@@ -35,11 +35,11 @@ I love creating **open-source packages**, writing **technical articles**, and ex
 ## 📝 Latest Medium Posts (English)
 
 <!-- MEDIUM-BLOG-POST-LIST:START -->
+- [Running Android and iOS Maestro UI Tests in GitHub Actions](https://medium.com/medialesson/running-android-and-ios-maestro-ui-tests-in-github-actions-8ce1fbba572e?source=rss-c8f6762e0e4b------2)
 - [Getting Started with Maestro UI Tests for .NET MAUI](https://medium.com/medialesson/getting-started-with-maestro-ui-tests-for-net-maui-3c8f714b7903?source=rss-c8f6762e0e4b------2)
 - [Your Next Presentation Could Be a Git Repository](https://medium.com/medialesson/your-next-presentation-could-be-a-git-repository-de4a81c7df54?source=rss-c8f6762e0e4b------2)
 - [Connecting .NET MAUI and ASP.NET Core with Aspire](https://medium.com/medialesson/connecting-net-maui-and-asp-net-core-with-aspire-89c82577a19d?source=rss-c8f6762e0e4b------2)
 - [Building a Seven-Segment Display Control with .NET MAUI and SkiaSharp](https://medium.com/@tsjdevapps/building-a-seven-segment-display-control-with-net-maui-and-skiasharp-739adf1ca8d9?source=rss-c8f6762e0e4b------2)
-- [From Commit to MSIX: Automating .NET MAUI Windows Builds with GitHub Actions](https://medium.com/medialesson/from-commit-to-msix-automating-net-maui-windows-builds-with-github-actions-9e1709a7e5dd?source=rss-c8f6762e0e4b------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 
 ## 📝 Neueste Blog-Beiträge (Deutsch)
